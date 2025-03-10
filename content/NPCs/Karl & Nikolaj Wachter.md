@@ -13,7 +13,7 @@ share: true
 >##### Basic Information
 >Type | Stat |
 >----  | ----  |
-> Wohnort | [Vallaki](Vallaki.md) |
+> Wohnort | [Vallaki](../Places/D%C3%B6rfer/Vallaki.md) |
 > Guilde | keine |
 > Geschlecht | Männlich |
 > Alter | Jung |
@@ -25,5 +25,5 @@ share: true
 - Söhne von [Fiona Wachter](./Fiona%20Wachter.md)
 - Nicht ganz so böse
 - gelangweilt
-- Helfen mir langsam auch Macht in [Vallaki](Vallaki.md) zu bekommen
+- Helfen mir langsam auch Macht in [Vallaki](../Places/D%C3%B6rfer/Vallaki.md) zu bekommen
 - 
