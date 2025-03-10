@@ -15,7 +15,7 @@ share: true
 >##### Basic Information
 >Type | Stat |
 >----  | ----  |
-> Wohnort | [[Krezk|Krezk]] |
+> Wohnort | [Krezk](Krezk.md) |
 > Guilde | Keine |
 > Geschlecht | Männlich |
 > Alter | Mittelalt |
