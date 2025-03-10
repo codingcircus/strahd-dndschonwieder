@@ -13,7 +13,7 @@ share: true
 >##### Basic Information
 >Type | Stat |
 >----  | ----  |
-> Wohnort | [[Vallaki|Vallaki]] |
+> Wohnort | [Vallaki](Vallaki.md) |
 > Guilde | keine |
 > Geschlecht | Weiblich |
 > Alter | Alt |
