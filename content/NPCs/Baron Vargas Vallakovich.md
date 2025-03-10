@@ -13,7 +13,7 @@ share: true
 >##### Basic Information
 >Type | Stat |
 >----  | ----  |
-> Wohnort | [Vallaki](Vallaki.md) |
+> Wohnort | [Vallaki](../Places/D%C3%B6rfer/Vallaki.md) |
 > Gruppe | keine |
 > Geschlecht | Männlich |
 > Alter | Mittelalt |
