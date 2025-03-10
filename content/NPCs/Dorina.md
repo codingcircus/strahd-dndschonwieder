@@ -23,5 +23,5 @@ share: true
 > Job | keiner |
 
 
-- Der Abt der [Abtei von St. Markovia](Abtei%20von%20St.%20Markovia.md) hat sie ausgetrickst
+- Der [Abt](Abt.md) der [Abtei von St. Markovia](../Places/Geb%C3%A4ude/Abtei%20von%20St.%20Markovia.md) hat sie ausgetrickst
 - Strahd hat ihr die Augen gestohlen

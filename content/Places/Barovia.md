@@ -1,6 +1,10 @@
 ---
-Herrscher: "[[Strahd von Zarovich]]"
+share: true
 ---
 
+| Type | Stat |
+| --- | --- |
+| Herrscher | [Strahd von Zarovich](../NPCs/Strahd%20von%20Zarovich.md) |
+
 - Kontinent des Settings
-- Kann man nicht verlassen ausser [[Strahd von Zarovich]] erlaubt es
+- Kann man nicht verlassen ausser [Strahd von Zarovich](../NPCs/Strahd%20von%20Zarovich.md) erlaubt es

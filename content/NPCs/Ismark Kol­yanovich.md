@@ -13,7 +13,7 @@ share: true
 >##### Basic Information
 >Type | Stat |
 >----  | ----  |
-> Wohnort | [Dorf Barovia](Dorf%20Barovia.md) |
+> Wohnort | [Dorf Barovia](../Places/D%C3%B6rfer/Dorf%20Barovia.md) |
 > Guilde | keine |
 > Geschlecht | Männlich |
 > Alter | Jung |

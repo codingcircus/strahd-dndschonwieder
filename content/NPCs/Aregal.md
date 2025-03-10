@@ -1,25 +1,25 @@
 ---
+share: true
 Guild: keine
 Gender: Männlich
 Species: Mensch
 Age: Mittelalt
-Class: keine
+Class: 
 Alignment: Neutral
-Job: Rechte Hand des Bürgermeisters
-share: true
+Job: Anführer
 ---
 
 >[!infobox]
 >##### Basic Information
 >Type | Stat |
 >----  | ----  |
-> Wohnort | [Vallaki](../Places/D%C3%B6rfer/Vallaki.md) |
-> Guilde | keine |
+> Wohnort | [Camp der Vistany](../Places/D%C3%B6rfer/Camp%20der%20Vistany.md) |
+> Guilde | [Vistany](./Guilds/Vistany.md) |
 > Geschlecht | Männlich |
 > Alter | Mittelalt |
 > Spezies | Mensch |
 > Ausrichtung | Neutral |
-> Klasse | keine |
-> Job | Rechte Hand des Bürgermeisters |
+> Klasse |  |
+> Job | Anführer |
 
-Schreckenswölfe haben seinen Arm gefressen
+- Will seine Pferde zurückhaben

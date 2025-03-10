@@ -13,7 +13,7 @@ share: true
 >##### Basic Information
 >Type | Stat |
 >----  | ----  |
-> Wohnort | [Iser Fälle](Iser%20F%C3%A4lle.md) |
+> Wohnort | [Iser Fälle](../Places/D%C3%B6rfer/Iser%20F%C3%A4lle.md) |
 > Guilde | Party |
 > Geschlecht | Männlich |
 > Alter | Kind |

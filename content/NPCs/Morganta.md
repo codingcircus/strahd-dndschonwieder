@@ -1,5 +1,5 @@
 ---
-Guild: "[[Hexen|Hexen]]"
+Guild: "[Hexen](./Guilds/Hexen.md)"
 Gender: Weiblich
 Species: Mensch
 Age: Alt
@@ -14,7 +14,7 @@ share: true
 >Type | Stat |
 >----  | ----  |
 > Wohnort | [Knochenmühle](Knochenm%C3%BChle.md) |
-> Guilde | [[Hexen|Hexen]] |
+> Guilde | [Hexen](./Guilds/Hexen.md) |
 > Geschlecht | Weiblich |
 > Alter | Alt |
 > Spezies | Mensch |

@@ -23,5 +23,5 @@ share: true
 > Job | Wohlhabend |
 
 
-- hat uns vergiftet und nach [Barovia](Barovia.md) gebracht
+- hat uns vergiftet und nach [Barovia](../Places/Barovia.md) gebracht
 - war in Wirklichkeit die Frau von dem Typen im One Shot, den wir getötet haben

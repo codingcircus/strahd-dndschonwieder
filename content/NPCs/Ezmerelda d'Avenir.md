@@ -14,7 +14,7 @@ share: true
 >Type | Stat |
 >----  | ----  |
 > Wohnort | Nomade |
-> Guilde | [Vampirjäger](Vampirj%C3%A4ger.md) |
+> Guilde | [Vampirjäger](./Guilds/Vampirj%C3%A4ger.md) |
 > Geschlecht | Weiblich |
 > Alter | Jung |
 > Spezies | Mensch |
