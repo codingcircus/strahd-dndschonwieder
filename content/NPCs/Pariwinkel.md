@@ -1,8 +1,25 @@
 ---
-Ausrichtung: Gut
-Spezies: Mensch
+Guild: keine
+Gender: Männlich
+Species: Mensch
+Age: Jung
+Class: keine
+Alignment: Neutral
 Job: Händler
-Wohnort: "[[Dorf Barovia]]"
+share: true
 ---
 
-- Neffe von [[Bildrath]]
+>[!infobox]
+>##### Basic Information
+>Type | Stat |
+>----  | ----  |
+> Wohnort | [Dorf Barovia](Dorf%20Barovia.md) |
+> Guilde | keine |
+> Geschlecht | Männlich |
+> Alter | Jung |
+> Spezies | Mensch |
+> Ausrichtung | Neutral |
+> Klasse | keine |
+> Job | Händler |
+
+- Neffe von [Bildrath](Bildrath.md)
