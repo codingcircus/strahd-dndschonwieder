@@ -1,9 +1,27 @@
 ---
-Ausrichtung: Böse
-Spezies: Geist
-Job: 
-Wohnort: Friedhof
+Guild: keine
+Gender: Weiblich
+Species: Geist
+Age: Jung
+Class: keine
+Alignment: Böse
+Job: keiner
+share: true
 ---
 
-- Der Abt der [[Abtei von St. Markovia]] hat sie ausgetrickst
+>[!infobox]
+>##### Basic Information
+>Type | Stat |
+>----  | ----  |
+> Wohnort | [[Friedhof Krezk|Friedhof Krezk]] |
+> Guilde | keine |
+> Geschlecht | Weiblich |
+> Alter | Jung |
+> Spezies | Geist |
+> Ausrichtung | Böse |
+> Klasse | keine |
+> Job | keiner |
+
+
+- Der Abt der [[Abtei von St. Markovia|Abtei von St. Markovia]] hat sie ausgetrickst
 - Strahd hat ihr die Augen gestohlen
