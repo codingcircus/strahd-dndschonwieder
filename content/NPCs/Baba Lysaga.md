@@ -1,5 +1,5 @@
 ---
-Guild: "[[Hexen|Hexen]]"
+Guild: "[Hexen](./Guilds/Hexen.md)"
 Gender: Weiblich
 Species: Hexe
 Age: Alt
@@ -13,7 +13,7 @@ share: true
 >Type | Stat |
 >----  | ----  |
 > Wohnort | [Beres Sümpfe](Beres%20S%C3%BCmpfe.md)  |
-> Gruppe | [[Hexen|Hexen]] |
+> Gruppe | [Hexen](./Guilds/Hexen.md) |
 > Geschlecht | Weiblich |
 > Alter | Alt |
 > Spezies | Hexe |
