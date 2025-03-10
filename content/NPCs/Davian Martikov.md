@@ -25,7 +25,7 @@ Alignment: Gut
 > Job | Winzer |
 
 
-- Vater von [Urwin Martikov](Urwin%20Martikov.md)
+- Vater von [Urwin Martikov](./Urwin%20Martikov.md)
 - Chef des [Der Weinmagier](Der%20Weinmagier.md)
 - Ältestes Mitglied der Werraben
 - Anführer der [Hüter der Feder](H%C3%BCter%20der%20Feder.md)
