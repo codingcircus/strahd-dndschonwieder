@@ -1,5 +1,5 @@
 ---
-Guild: "[[Hüter der Feder]]"
+Guild: "[[Hüter der Feder|Hüter der Feder]]"
 Gender: Männlich
 Species: Werrabe
 Age: Mittelalt

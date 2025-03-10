@@ -1,5 +1,5 @@
 ---
-Guild: "[[Vampirjäger]]"
+Guild: "[[Vampirjäger|Vampirjäger]]"
 Gender: Männlich
 Species: Mensch
 Age: Alt
