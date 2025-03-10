@@ -7,19 +7,20 @@ Class: Normal
 Alignment: Neutral
 Location: "[[Dorf Barovia]]"
 Job: Bürgermeister
+share: true
 ---
 
 >[!infobox]
 >##### Basic Information
 >Type | Stat |
 >----  | ----  |
-> Wohnort | `=this.Location` |
-> Gruppe | `=this.Guild` |
-> Geschlecht | `=this.Gender` |
-> Spezies | `=this.Species` |
-> Ausrichtung | `=this.Alignment` |
-> Klasse | `=this.Class` |
-> Job | `=this.Job` |
+> Wohnort | [[Dorf Barovia|Dorf Barovia]] |
+> Gruppe | keine |
+> Geschlecht | Männlich |
+> Spezies | Mensch |
+> Ausrichtung | Neutral |
+> Klasse | Normal |
+> Job | Bürgermeister |
 
 
 - vor 2 Tagen verstorben
