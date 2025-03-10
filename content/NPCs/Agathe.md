@@ -13,7 +13,7 @@ share: true
 >##### Basic Information
 >Type | Stat |
 >----  | ----  |
-> Wohnort | [[Knochenmühle|Knochenmühle]] |
+> Wohnort | [Knochenmühle](Knochenm%C3%BChle.md) |
 > Guilde | Hexen |
 > Geschlecht | Weiblich |
 > Alter | Alt |
