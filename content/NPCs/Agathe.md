@@ -11,7 +11,7 @@ share: true
 
 >[!infobox]
 >##### Basic Information
->Type | Stat |
+>Type | Stat |
 >----  | ----  |
 > Wohnort | [Knochenmühle](Knochenm%C3%BChle.md) |
 > Guilde | [Hexen](./Guilds/Hexen.md) |
