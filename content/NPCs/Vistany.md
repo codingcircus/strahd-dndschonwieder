@@ -1,2 +1,0 @@
-- Fahrendes Volk
-- haben verletzten [[Strahd von Zarovich]] gepflegt, daher dürfen sie als einzige das Land verlassen
