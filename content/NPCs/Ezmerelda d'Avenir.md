@@ -22,7 +22,7 @@ share: true
 > Klasse | Vampirjäger |
 > Job | Vampirjägerin |
 
-- früher mit [Rudolf van Richten](Rudolf%20van%20Richten.md) herumgereist
+- früher mit [Rudolf van Richten](./Rudolf%20van%20Richten.md) herumgereist
 - sucht ihn derzeit
 - hat nur 1 Bein
 - hat uns schonmal Tarot gelegt: [Tarot Karten von Ezmerelda](Tarot%20Karten%20von%20Ezmerelda.md)
