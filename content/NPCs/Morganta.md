@@ -1,5 +1,5 @@
 ---
-Guild: "[[Hexen]]"
+Guild: "[[Hexen|Hexen]]"
 Gender: Weiblich
 Species: Mensch
 Age: Alt
