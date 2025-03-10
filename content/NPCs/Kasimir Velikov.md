@@ -13,7 +13,7 @@ share: true
 >##### Basic Information
 >Type | Stat |
 >----  | ----  |
-> Wohnort | [Camp der Vistany](Camp%20der%20Vistany.md) |
+> Wohnort | [Camp der Vistany](../Places/D%C3%B6rfer/Camp%20der%20Vistany.md) |
 > Guilde | keine |
 > Geschlecht | Männlich |
 > Alter | Alt |
