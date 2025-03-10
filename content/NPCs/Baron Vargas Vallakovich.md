@@ -5,7 +5,6 @@ Species: Mensch
 Age: Älter
 Class: Normal
 Alignment: Neutral
-Location: "[[Vallaki]]"
 Job: Bürgermeister
 share: true
 ---
@@ -14,7 +13,7 @@ share: true
 >##### Basic Information
 >Type | Stat |
 >----  | ----  |
-> Wohnort | [[Vallaki|Vallaki]] |
+> Wohnort | [Vallaki](Vallaki.md) |
 > Gruppe | keine |
 > Geschlecht | Männlich |
 > Spezies | Mensch |

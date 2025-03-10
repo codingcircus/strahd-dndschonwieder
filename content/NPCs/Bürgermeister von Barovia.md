@@ -5,7 +5,6 @@ Species: Mensch
 Age: Tod
 Class: Normal
 Alignment: Neutral
-Location: "[[Dorf Barovia]]"
 Job: Bürgermeister
 share: true
 ---
@@ -14,7 +13,7 @@ share: true
 >##### Basic Information
 >Type | Stat |
 >----  | ----  |
-> Wohnort | [[Dorf Barovia|Dorf Barovia]] |
+> Wohnort | [Dorf Barovia](Dorf%20Barovia.md) |
 > Gruppe | keine |
 > Geschlecht | Männlich |
 > Spezies | Mensch |
