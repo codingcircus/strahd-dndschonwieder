@@ -1,0 +1,2 @@
+- Göttin
+- Strahd hat ihre Knochen gestohlen

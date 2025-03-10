@@ -1,0 +1,2 @@
+- hat uns vergiftet und nach [[Barovia]] gebracht
+- war in Wirklichkeit die Frau von dem Typen im One Shot, den wir getötet haben

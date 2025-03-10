@@ -1,0 +1,2 @@
+- Lasst uns mit [[Ezmerelda d'Avenir]] reden
+- Vielleicht auch [[Rudolf van Richten]]

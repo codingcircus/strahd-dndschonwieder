@@ -1,0 +1,3 @@
+- Kleines Dorf mit Stadtmauer
+- Am Fuß von einem Hügel auf dem die [[Abtei von St. Markovia]] steht
+- Viele Leute hier haben keine Seele mehr

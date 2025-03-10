@@ -1,0 +1,4 @@
+- Spielzeuggeschäft
+- kuriose Puppen, eher gruselig
+- Der Spielzeugmacher hat bei [[Fritz von Werk]], gelernt, dessen Meisterstücke man im [[Schloss Ravenloft]] finden kann. 
+- [[Rudolf van Richten]] hat dem Spielzeugmacher einen Affen gegeben, weil er immer so traurig ist
