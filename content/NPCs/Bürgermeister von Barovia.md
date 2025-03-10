@@ -13,9 +13,10 @@ share: true
 >##### Basic Information
 >Type | Stat |
 >----  | ----  |
-> Wohnort | [Dorf Barovia](Dorf%20Barovia.md) |
+> Wohnort | [[Dorf Barovia|Dorf Barovia]] |
 > Gruppe | keine |
 > Geschlecht | Männlich |
+> Alter | Tod |
 > Spezies | Mensch |
 > Ausrichtung | Neutral |
 > Klasse | Normal |

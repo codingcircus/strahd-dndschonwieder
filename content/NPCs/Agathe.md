@@ -1,12 +1,25 @@
+---
+Guild: Hexen
+Gender: Weiblich
+Species: Unklar
+Age: Alt
+Class: Magier
+Alignment: Böse
+Job: Hexe
+share: true
+---
+
 >[!infobox]
 >##### Basic Information
 >Type | Stat |
 >----  | ----  |
-> Wohnort | Knochenmühle |
-> Gruppe | Hexen |
+> Wohnort | [[Knochenmühle|Knochenmühle]] |
+> Guilde | Hexen |
 > Geschlecht | Weiblich |
-> Rasse | ? |
+> Alter | Alt |
+> Spezies | Unklar |
 > Ausrichtung | Böse |
 > Klasse | Magier |
+> Job | Hexe |
 
 - Hat vielleicht eines der Juwelen

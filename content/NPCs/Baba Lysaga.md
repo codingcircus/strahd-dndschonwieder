@@ -12,13 +12,14 @@ share: true
 >##### Basic Information
 >Type | Stat |
 >----  | ----  |
-> Wohnort | [Beres Sümpfe](Beres%20S%C3%BCmpfe.md)  |
+> Wohnort | [[Beres Sümpfe|Beres Sümpfe]]  |
 > Gruppe | Hexen |
 > Geschlecht | Weiblich |
+> Alter | Alt |
 > Spezies | Hexe |
 > Ausrichtung | Böse |
 > Klasse | Magier |
 
-- Fühlt sich als Mutter von [Strahd von Zarovich](Strahd%20von%20Zarovich.md). Eigentlich war sie sein Kindermädchen und hat ihm Magie beigebracht.
+- Fühlt sich als Mutter von [[Strahd von Zarovich|Strahd von Zarovich]]. Eigentlich war sie sein Kindermädchen und hat ihm Magie beigebracht.
 - Am besten geht man ihr aus dem Weg
 - Hat gefährliche Illusionszauber/

@@ -2,7 +2,7 @@
 Guild: keine
 Gender: Männlich
 Species: Mensch
-Age: Älter
+Age: Mittelalt
 Class: Normal
 Alignment: Neutral
 Job: Bürgermeister
@@ -13,9 +13,10 @@ share: true
 >##### Basic Information
 >Type | Stat |
 >----  | ----  |
-> Wohnort | [Vallaki](Vallaki.md) |
+> Wohnort | [[Vallaki|Vallaki]] |
 > Gruppe | keine |
 > Geschlecht | Männlich |
+> Alter | Mittelalt |
 > Spezies | Mensch |
 > Ausrichtung | Neutral |
 > Klasse | Normal |
