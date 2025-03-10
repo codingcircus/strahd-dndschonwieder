@@ -1,8 +1,26 @@
 ---
-Ausrichtung: Gut
-Spezies: Elf
+Guild: keine
+Gender: Männlich
+Species: Elf
+Age: Alt
+Class: Magier
+Alignment: Gut
 Job: Magier
-Wohnort: "[[Camp der Vistany]]"
+share: true
 ---
+
+>[!infobox]
+>##### Basic Information
+>Type | Stat |
+>----  | ----  |
+> Wohnort | [Camp der Vistany](Camp%20der%20Vistany.md) |
+> Guilde | keine |
+> Geschlecht | Männlich |
+> Alter | Alt |
+> Spezies | Elf |
+> Ausrichtung | Gut |
+> Klasse | Magier |
+> Job | Magier |
+
 - Seine Ohren wurden abgeschnitten
-- Seine Schwester wollte [[Strahd von Zarovich]] heiraten. Er hat sie gesteinigt, damit sie das nicht tut
+- Seine Schwester wollte [Strahd von Zarovich](./Strahd%20von%20Zarovich.md) heiraten. Er hat sie gesteinigt, damit sie das nicht tut
