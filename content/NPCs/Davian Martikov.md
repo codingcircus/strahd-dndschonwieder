@@ -15,8 +15,8 @@ Alignment: Gut
 >##### Basic Information
 >Type | Stat |
 >----  | ----  |
-> Wohnort | [[Der Weinmagier|Der Weinmagier]] |
-> Guilde | [[Hüter der Feder|Hüter der Feder]] |
+> Wohnort | [Der Weinmagier](Der%20Weinmagier.md) |
+> Guilde | [Hüter der Feder](H%C3%BCter%20der%20Feder.md) |
 > Geschlecht | Männlich |
 > Alter | Alt |
 > Spezies | Werrabe |
@@ -25,7 +25,7 @@ Alignment: Gut
 > Job | Winzer |
 
 
-- Vater von [[Urwin Martikov|Urwin Martikov]]
-- Chef des [[Der Weinmagier|Der Weinmagier]]
+- Vater von [Urwin Martikov](Urwin%20Martikov.md)
+- Chef des [Der Weinmagier](Der%20Weinmagier.md)
 - Ältestes Mitglied der Werraben
-- Anführer der [[Hüter der Feder|Hüter der Feder]]
+- Anführer der [Hüter der Feder](H%C3%BCter%20der%20Feder.md)

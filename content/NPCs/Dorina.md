@@ -13,7 +13,7 @@ share: true
 >##### Basic Information
 >Type | Stat |
 >----  | ----  |
-> Wohnort | [[Friedhof Krezk|Friedhof Krezk]] |
+> Wohnort | [Friedhof Krezk](Friedhof%20Krezk.md) |
 > Guilde | keine |
 > Geschlecht | Weiblich |
 > Alter | Jung |
@@ -23,5 +23,5 @@ share: true
 > Job | keiner |
 
 
-- Der Abt der [[Abtei von St. Markovia|Abtei von St. Markovia]] hat sie ausgetrickst
+- Der Abt der [Abtei von St. Markovia](Abtei%20von%20St.%20Markovia.md) hat sie ausgetrickst
 - Strahd hat ihr die Augen gestohlen
