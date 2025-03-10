@@ -2,13 +2,12 @@
 Guild: keine
 Gender: Männlich
 Species: Mensch
-Age: Alt
+Age: Mittelalt
 Class: keine
-Alignment: Böse
-Job: Sargbauer
+Alignment: Neutral
+Job: Rechte Hand des Bürgermeisters
 share: true
 ---
-
 
 >[!infobox]
 >##### Basic Information
@@ -17,10 +16,10 @@ share: true
 > Wohnort | [Vallaki](Vallaki.md) |
 > Guilde | keine |
 > Geschlecht | Männlich |
-> Alter | Alt |
+> Alter | Mittelalt |
 > Spezies | Mensch |
-> Ausrichtung | Böse |
+> Ausrichtung | Neutral |
 > Klasse | keine |
-> Job | Sargbauer |
+> Job | Rechte Hand des Bürgermeisters |
 
-- Sein Sohn wurde von Werwölfen erwischt
+Schreckenswölfe haben seinen Arm gefressen

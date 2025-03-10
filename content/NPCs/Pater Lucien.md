@@ -1,8 +1,26 @@
 ---
-Ausrichtung: Gut
-Spezies: Mensch
+Guild: keine
+Gender: Männlich
+Species: Mensch
+Age: Tod
+Class: Cleric
+Alignment: Gut
 Job: Pater
-Wohnort: "[[Vallaki]]"
+share: true
 ---
-- Pater in der [[St. Andrals Kirche]]
-- Kennt [[Rudolf van Richten]] gut
+
+>[!infobox]
+>##### Basic Information
+>Type | Stat |
+>----  | ----  |
+> Wohnort | [Vallaki](Vallaki.md) |
+> Guilde | keine |
+> Geschlecht | Männlich |
+> Alter | Tod |
+> Spezies | Mensch |
+> Ausrichtung | Gut |
+> Klasse | Cleric |
+> Job | Pater |
+
+- Pater in der [St. Andrals Kirche](St.%20Andrals%20Kirche.md)
+- Kennt [Rudolf van Richten](./Rudolf%20van%20Richten.md) gut

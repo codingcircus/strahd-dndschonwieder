@@ -20,6 +20,6 @@ share: true
 > Ausrichtung | Böse |
 > Klasse | Magier |
 
-- Fühlt sich als Mutter von [Strahd von Zarovich](Strahd%20von%20Zarovich.md). Eigentlich war sie sein Kindermädchen und hat ihm Magie beigebracht.
+- Fühlt sich als Mutter von [Strahd von Zarovich](./Strahd%20von%20Zarovich.md). Eigentlich war sie sein Kindermädchen und hat ihm Magie beigebracht.
 - Am besten geht man ihr aus dem Weg
 - Hat gefährliche Illusionszauber/

@@ -1,11 +1,11 @@
 ---
 Guild: keine
-Gender: Männlich
+Gender: Weiblich
 Species: Mensch
 Age: Jung
 Class: keine
 Alignment: Neutral
-Job: Händler
+Job: keine
 share: true
 ---
 
@@ -15,11 +15,10 @@ share: true
 >----  | ----  |
 > Wohnort | [Dorf Barovia](Dorf%20Barovia.md) |
 > Guilde | keine |
-> Geschlecht | Männlich |
+> Geschlecht | Weiblich |
 > Alter | Jung |
 > Spezies | Mensch |
 > Ausrichtung | Neutral |
 > Klasse | keine |
-> Job | Händler |
+> Job | keine |
 
-- Neffe von [Bildrath](Bildrath.md)
