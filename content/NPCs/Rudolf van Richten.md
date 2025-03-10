@@ -1,5 +1,5 @@
 ---
-Guild: "[[Vampirjäger|Vampirjäger]]"
+Guild: "[Vampirjäger](./Guilds/Vampirj%C3%A4ger.md)"
 Gender: Männlich
 Species: Mensch
 Age: Alt
@@ -14,7 +14,7 @@ share: true
 >Type | Stat |
 >----  | ----  |
 > Wohnort | Nomade |
-> Guilde | [[Vampirjäger|Vampirjäger]] |
+> Guilde | [Vampirjäger](./Guilds/Vampirj%C3%A4ger.md) |
 > Geschlecht | Männlich |
 > Alter | Alt |
 > Spezies | Mensch |
