@@ -1,5 +1,5 @@
 ---
-Guild: "[[Hüter der Feder|Hüter der Feder]]"
+Guild: "[Hüter der Feder](./Guilds/H%C3%BCter%20der%20Feder.md)"
 Gender: Männlich
 Species: Werrabe
 Age: Mittelalt
@@ -13,8 +13,8 @@ share: true
 >##### Basic Information
 >Type | Stat |
 >----  | ----  |
-> Wohnort | [Vallaki](Vallaki.md) |
-> Guilde | [[Hüter der Feder|Hüter der Feder]] |
+> Wohnort | [Vallaki](../Places/D%C3%B6rfer/Vallaki.md) |
+> Guilde | [Hüter der Feder](./Guilds/H%C3%BCter%20der%20Feder.md) |
 > Geschlecht | Männlich |
 > Alter | Mittelalt |
 > Spezies | Werrabe |
