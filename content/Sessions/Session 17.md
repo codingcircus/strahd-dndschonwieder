@@ -1,5 +1,5 @@
 ---
-Datum: 2.8.2024
+created: 2.8.2024
 share: true
 ---
 [Henrik van der Voort](../NPCs/Henrik%20van%20der%20Voort.md) überlässt uns sein Haus
