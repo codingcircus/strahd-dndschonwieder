@@ -1,5 +1,5 @@
 ---
-created: 16.3.2023
+created: 2023-03-16
 share: true
 ---
 - Am nächsten Morgen kommen [Adrian](../NPCs/Adrian%20Martikov.md), [Ezmerelda d'Avenir](../NPCs/Ezmerelda%20d'Avenir.md) und [Elvir Martikov](Elvir%20Martikov.md) mit dem Wagen an. Elvir ist verletzt
