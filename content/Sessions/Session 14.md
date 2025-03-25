@@ -1,14 +1,10 @@
 ---
-Datum: 8.10.2023
+Datum: 15.3.2024
+share: true
 ---
-Wir besuchen die Kinder in ihrem verlassenen Haus
-Am Weg kriegen wir noch Pasteten von einer [[Morganta|alten Frau]]
-Kinder ws. eine kleine Diebesgilde
-Mehrere Kinder
-- [[Kestrel]]
-- [[Christopher]]
-- [[Ivana]] ein Tiefling
-Sie sagen, sie helfen uns, wenn wir [[Izek]] töten
-Sie warnen uns auch vor den [[Pasteten]], ihre Eltern werden davon betrunken
-[[Johnny Rosenthaler]] will zu [[Blinsky]]
-Wir kaufen eine alte Panflöte
+In [Vallaki](../Places/D%C3%B6rfer/Vallaki.md) sehen wir am Tor einen aufgebrachten [Vistany](../NPCs/Guilds/Vistany.md)
+Wir helfen ihm an den Wachen vorbei
+Er sucht ein junges Mädchen
+Wir finden Spuren, die uns zum See führen
+Dort kämpfen wir gegen einen verrückten [Bluto](Bluto.md)
+Im See ist auch seine tote Frau als Wassermonster, wir müssen beide besiegen
