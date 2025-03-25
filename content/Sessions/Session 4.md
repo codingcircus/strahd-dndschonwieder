@@ -1,5 +1,5 @@
 ---
-Datum: 11.2.2023
+created: 11.2.2023
 share: true
 ---
 ## Ankunft im [Der Weinmagier](../Places/Geb%C3%A4ude/Der%20Weinmagier.md)
