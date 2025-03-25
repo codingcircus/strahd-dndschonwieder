@@ -1,21 +1,13 @@
 ---
-Datum: 4.8.2023
+Datum: 15.12.2023
+share: true
 ---
-In Vallaki suchen wir gleich das [[Gasthaus Blauwasser]]
-Das Gasthaus wird von [[Urwin Martikov]] geführt und seiner Frau [[Danika Dorakova]]
-Sie haben zwei Söhne, [[Brom]] & [[Bray]]
-Im Gasthaus sind einige andere Leute mit denen wir reden
-- Ricardo, eigentlich [[Rudolf van Richten]]
-- [[Leander]], ein Dunkelelf, er ist Söldner
-- [[Karl & Nikolaj Wachter]]
-Wir erfahren, dass die [[Vistany]] Probleme machen
-Louis gibt an
-Wir erfahren von [[OIeana]] in [[Barovia]]
-Wir erfahren von [[Irina]], der schönsten Frau von [[Barovia]]
-Nördlich ist der [[Zarovich See]]
-Wir versuchen uns zum Teekränzchen bei [[Fiona Wachter]] über die beiden Söhne einzuladen
-Wir spazieren durch [[Vallaki]]
-Es herrscht ein Fest, der [[Baron Vargas Vallakovich|Bürgermeister]] zwingt alle zu feiern
-Wir spazieren am Spielzeuggeschäft [[Blinsky]] vorbei und kommen zur [[Schmiede]] von [[Mirabel]]
-[[Arasek]] kauft Edelsteine
-Wir hecken einen Plan aus [[Gritta]] zur verkleiden als Cordelia, die Cousine von mir, um zu den Wachters zu gehen
+Wir sind bei Frau Wachter
+[Allentato](../Party/Allentato.md) wartet im Keller, dort fühlt er andere Skelette
+[Johnny Rosenthaler](../Party/Johnny%20Rosenthaler.md) und [Louis Langhammer](../Party/Louis%20Langhammer.md) geben sich als unsere Diener aus und warten im Personalbereich
+Sie freunden sich mit ein paar Bediensteten an und schleichen sich durchs Haus
+In einem Zimmer ist eine junge Frau, [Natasia Wachter](Natasia%20Wachter.md), die sich wie eine Katze benimmt
+Gritta und ich trinken mit den jungen Wachters [Karl & Nikolaj Wachter](../NPCs/Karl%20&%20Nikolaj%20Wachter.md) schon mal
+Später kommt [Fiona Wachter](../NPCs/Fiona%20Wachter.md) dazu
+Sie will dass wir den [Bürgermeister](../NPCs/Baron%20Vargas%20Vallakovich.md) töten
+In einer Tür sehen wir kurzen einen alten Mann durchschauen, er verschwindet gleich wieder.
