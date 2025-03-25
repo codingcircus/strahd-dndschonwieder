@@ -1,0 +1,29 @@
+---
+Guild: keine
+Gender: Männlich
+Species: Mensch
+Age: Tod
+Class: Normal
+Alignment: Neutral
+Job: Bürgermeister
+share: true
+aliases:
+  - Bürgermeister von Barovia
+---
+
+>[!infobox]
+>##### Basic Information
+>Type | Stat |
+>----  | ----  |
+> Wohnort | [Dorf Barovia](../Places/D%C3%B6rfer/Dorf%20Barovia.md) |
+> Gruppe | keine |
+> Geschlecht | Männlich |
+> Alter | Tod |
+> Spezies | Mensch |
+> Ausrichtung | Neutral |
+> Klasse | Normal |
+> Job | Bürgermeister |
+
+
+- vor 2 Tagen verstorben
+- war ca. 25 Jahre in der Bürgermeister
