@@ -1,5 +1,5 @@
 ---
-Datum: 6.1.2023
+created: 6.1.2023
 share: true
 ---
 ## Weg zum [Weingut](../Places/Geb%C3%A4ude/Der%20Weinmagier.md)
