@@ -1,5 +1,5 @@
 ---
-Datum: 18.12.2022
+created: 18.12.2022
 share: true
 ---
 ## In [Krezk](../Places/D%C3%B6rfer/Krezk.md)

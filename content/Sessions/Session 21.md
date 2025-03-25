@@ -1,13 +1,13 @@
 ---
-Datum: 20.3.2025
+created: 20.3.2025
 share: true
 ---
-- Wir starten in der [Taverne von Barovia](zur%20blutigen%20Weintraube.md)
+- Wir starten in der [Taverne von Barovia](../Places/zur%20blutigen%20Weintraube.md)
 - [Ismark Kol­yanovich](../NPCs/Ismark%20Kol%C2%ADyanovich.md) hat noch eine Seele, wirkt aber sehr bedrückt
 - Tote Körper müssen dem [Morgenfürst](Morgenf%C3%BCrst.md) übergeben werden
 - [Dimitri](../NPCs/Dimitri.md), der den Sarg für den [Bürgermeister von Barovia](../NPCs/Kolyan%20Indirovich.md) bauen soll, hat den Verstand verloren
 - Wenn wir ihm helfen den Sarg zu holen kriegen wir (jeder) ein Wohnheim und 50 Gold
-- Evt. ist unser Name jetzt die [Husarenbande](Husarenbande.md)
+- Evt. ist unser Name jetzt die [Husarenbande](../Party/Husarenbande.md)
 - [Ismark](../NPCs/Ismark%20Kol%C2%ADyanovich.md) sagt uns, dass der Brief seines Vaters gefälscht ist
 - Er erzählt uns, dass [Strahd](../NPCs/Strahd%20von%20Zarovich.md) seine [Schwester](../NPCs/Irina%20Kolyanovich.md) verführen will, er hat sie sogar schon gebissen. Noch ist sie bei Sinnen
 - Wir werden zum Essen bei [Ismark](../NPCs/Ismark%20Kol%C2%ADyanovich.md) eingeladen

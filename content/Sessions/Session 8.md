@@ -1,5 +1,5 @@
 ---
-Datum: 28.6.2023
+created: 28.6.2023
 share: true
 ---
 [Balthasar](../NPCs/Balthasar%20Buddelsam.md) gibt uns Notizen von [Tarot Karten](Tarot%20Karten%20von%20Ezmerelda.md) mit

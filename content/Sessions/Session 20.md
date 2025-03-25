@@ -1,5 +1,5 @@
 ---
-Datum: 4.1.2025
+created: 4.1.2025
 share: true
 ---
 ## [Camp der Vistany](../Places/D%C3%B6rfer/Camp%20der%20Vistany.md)
@@ -44,4 +44,4 @@ Wir lernen auch den [Pariwimpel](../NPCs/Pariwimpel.md) kennen
 Wir kaufen Pfanne, Seife und eine beobachtende Puppe
 Alle Erwachsene sind Teil der [Lotterie](Lotterie.md) um an [Strahd von Zarovich](../NPCs/Strahd%20von%20Zarovich.md) verfüttert zu werden?
 
-In der [Taverne von Barovia](zur%20blutigen%20Weintraube.md) treffen wir [Ismark Kol­yanovich](../NPCs/Ismark%20Kol%C2%ADyanovich.md)
+In der [Taverne von Barovia](../Places/zur%20blutigen%20Weintraube.md) treffen wir [Ismark Kol­yanovich](../NPCs/Ismark%20Kol%C2%ADyanovich.md)
