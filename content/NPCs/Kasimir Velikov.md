@@ -23,4 +23,4 @@ share: true
 > Job | Magier |
 
 - Seine Ohren wurden abgeschnitten
-- Seine Schwester wollte [Strahd von Zarovich](./Strahd%20von%20Zarovich.md) heiraten. Er hat sie gesteinigt, damit sie das nicht tut
+- [Seine Schwester](./Patrina.md) wollte [Strahd von Zarovich](./Strahd%20von%20Zarovich.md) heiraten. Er hat sie gesteinigt, damit sie das nicht tut 

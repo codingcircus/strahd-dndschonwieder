@@ -2,28 +2,28 @@
 Guild: keine
 Gender: Männlich
 Species: Mensch
-Age: Mittelalt
+Age: Tod
 Class: Normal
 Alignment: Neutral
 Job: Bürgermeister
 share: true
 aliases:
-  - Bürgermeister von Vallaki
-  - Bürgermeister
+  - Bürgermeister von Barovia
 ---
 
 >[!infobox]
 >##### Basic Information
 >Type | Stat |
 >----  | ----  |
-> Wohnort | [Vallaki](../Places/D%C3%B6rfer/Vallaki.md) |
+> Wohnort | [Dorf Barovia](../Places/D%C3%B6rfer/Dorf%20Barovia.md) |
 > Gruppe | keine |
 > Geschlecht | Männlich |
-> Alter | Mittelalt |
+> Alter | Tod |
 > Spezies | Mensch |
 > Ausrichtung | Neutral |
 > Klasse | Normal |
 > Job | Bürgermeister |
 
 
-- hat 2 Doggen
+- vor 2 Tagen verstorben
+- war ca. 25 Jahre in der Bürgermeister

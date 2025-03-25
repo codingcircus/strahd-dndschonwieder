@@ -1,12 +1,12 @@
 ---
 Guild: 
-Gender: 
+Gender: Männlich
 Species: 
-Location: 
+Location: "[[Dorf Barovia]]"
 Age: 
 Class: 
 Alignment: 
-Job: 
+Job: Zimmermann
 aliases: 
 share: true
 ---
@@ -15,11 +15,13 @@ share: true
 >##### Basic Information
 >Type | Stat |
 >----  | ----  |
-> Wohnort |  |
+> Wohnort | [Dorf Barovia](../Places/D%C3%B6rfer/Dorf%20Barovia.md) |
 > Guilde |  |
-> Geschlecht |  |
+> Geschlecht | Männlich |
 > Alter |  |
 > Spezies |  |
 > Ausrichtung |  |
 > Klasse |  |
-> Job |  |
+> Job | Zimmermann |
+
+- ist verrückt geworden

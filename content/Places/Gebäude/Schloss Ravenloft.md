@@ -2,6 +2,7 @@
 share: true
 ---
 
-| Type | Stat |
-| --- | --- |
+| Type      | Stat                    |
+| --------- | ----------------------- |
 | Herrscher | [Strahd von Zarovich](../../NPCs/Strahd%20von%20Zarovich.md) |
+- immer wenn [Strahd](../../NPCs/Strahd%20von%20Zarovich.md) heimweht hat, erscheint das Schloss

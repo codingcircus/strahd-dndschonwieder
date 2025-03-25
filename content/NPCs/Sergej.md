@@ -3,7 +3,7 @@ Guild:
 Gender: 
 Species: 
 Location: 
-Age: 
+Age: Tod
 Class: 
 Alignment: 
 Job: 
@@ -18,8 +18,10 @@ share: true
 > Wohnort |  |
 > Guilde |  |
 > Geschlecht |  |
-> Alter |  |
+> Alter | Tod |
 > Spezies |  |
 > Ausrichtung |  |
 > Klasse |  |
 > Job |  |
+
+- Bruder von [Strahd](./Strahd%20von%20Zarovich.md)

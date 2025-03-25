@@ -7,6 +7,12 @@ Class: keine
 Alignment: Neutral
 Job: Rechte Hand des Bürgermeisters
 share: true
+aliases:
+  - Mann mit Glatze
+  - Schreckensmann
+  - Rechte Hand des Bürgermeisters
+  - Mutantenmann
+  - Izek
 ---
 
 >[!infobox]

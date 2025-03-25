@@ -1,7 +1,7 @@
 ---
 Guild: 
-Gender: 
-Species: 
+Gender: weiblich
+Species: Elf
 Location: 
 Age: 
 Class: 
@@ -17,9 +17,12 @@ share: true
 >----  | ----  |
 > Wohnort |  |
 > Guilde |  |
-> Geschlecht |  |
+> Geschlecht | weiblich |
 > Alter |  |
-> Spezies |  |
+> Spezies | Elf |
 > Ausrichtung |  |
 > Klasse |  |
 > Job |  |
+
+- Schwester von [Kasimir Velikov](./Kasimir%20Velikov.md)
+- 

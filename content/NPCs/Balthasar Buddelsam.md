@@ -4,10 +4,11 @@ Gender:
 Species: 
 Location: 
 Age: 
-Class: 
+Class: Cleric
 Alignment: 
 Job: 
-aliases: 
+aliases:
+  - Balthasar
 share: true
 ---
 
@@ -21,5 +22,5 @@ share: true
 > Alter |  |
 > Spezies |  |
 > Ausrichtung |  |
-> Klasse |  |
+> Klasse | Cleric |
 > Job |  |

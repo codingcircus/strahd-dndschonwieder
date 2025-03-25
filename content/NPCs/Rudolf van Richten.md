@@ -7,6 +7,9 @@ Class: keine
 Alignment: Gut
 Job: Vampirjäger
 share: true
+aliases:
+  - Van Richten
+  - Rictavio
 ---
 
 >[!infobox]
@@ -24,3 +27,4 @@ share: true
 
 - kann zwischen Welten wechseln
 - ist verflucht, alle um ihn herum geschieht Unheil
+- verkleidet sich manchmal als Elf Rictavio

@@ -4,7 +4,7 @@ share: true
 
 | Type | Stat |
 | --- | --- |
-| Besitzer | [Blinsky](../../NPCs/Blinsky.md) |
+| Besitzer | [Gadof Blinsky](../../NPCs/Gadof%20Blinsky.md) |
 
 - Spielzeuggeschäft
 - kuriose Puppen, eher gruselig

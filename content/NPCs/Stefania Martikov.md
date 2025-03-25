@@ -7,7 +7,8 @@ Age:
 Class: 
 Alignment: 
 Job: 
-aliases: 
+aliases:
+  - Stefania
 share: true
 ---
 

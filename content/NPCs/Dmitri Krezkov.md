@@ -26,3 +26,5 @@ share: true
 
 
 - ist ein Werwolf
+- hat keine Nachfahren, der letzte seiner Blutlinie
+- Will Hilfe vom [Abt](./Abt.md) um seinen Sohn wiederzubeleben
