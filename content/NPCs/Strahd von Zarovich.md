@@ -7,6 +7,8 @@ Class: Vampir
 Alignment: Böse
 Job: Graf
 share: true
+aliases:
+  - Strahd
 ---
 
 >[!infobox]
@@ -26,6 +28,7 @@ share: true
 - war früher ein menschlicher Prinz, hat Feinde bis ins Tal verfolgt und aus [Barovia](../Places/Barovia.md) getrieben
 - [Vistany](./Guilds/Vistany.md) haben ihn gepflegt
 - Man weiß nicht, warum Strahd ein Vampir ist, wahrscheinlich Pakt mit böser Macht, um unsterblich zu werden.
-- Strahd war in [Tatjana](Tatjana.md) verliebt, sie liebte aber seinen Bruder [Sergej](Sergej.md)
-- Am Hochzeitstag der beiden hat er [Sergej](Sergej.md) erstochen und sein Blut getrunken
+- Strahd war in [Tatjana](Tatjana.md) verliebt, sie liebte aber seinen Bruder [Sergej](./Sergej.md)
+- Am Hochzeitstag der beiden hat er [Sergej](./Sergej.md) erstochen und sein Blut getrunken
 - [Tatjana](Tatjana.md) hat sich dann das Leben genommen
+- kann sich immer wieder heilen
