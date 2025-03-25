@@ -7,6 +7,8 @@ Class: Vampirjäger
 Alignment: Gut
 Job: Vampirjägerin
 share: true
+aliases:
+  - Ezmerelda
 ---
 
 >[!infobox]
@@ -14,7 +16,7 @@ share: true
 >Type | Stat |
 >----  | ----  |
 > Wohnort | Nomade |
-> Guilde | [Vampirjäger](./Guilds/Vampirj%C3%A4ger.md) |
+> Guilde | [Vistany](./Guilds/Vistany.md) |
 > Geschlecht | Weiblich |
 > Alter | Jung |
 > Spezies | Mensch |
@@ -22,7 +24,7 @@ share: true
 > Klasse | Vampirjäger |
 > Job | Vampirjägerin |
 
-- früher mit [Rudolf van Richten](./Rudolf%20van%20Richten.md) herumgereist
+- früher mit [Rudolf van Richten](./Rudolf%20van%20Richten.md) herumgereist, war sein Lehrling
 - sucht ihn derzeit
 - hat nur 1 Bein
 - hat uns schonmal Tarot gelegt: [Tarot Karten von Ezmerelda](Tarot%20Karten%20von%20Ezmerelda.md)
