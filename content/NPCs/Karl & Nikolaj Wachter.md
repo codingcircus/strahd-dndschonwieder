@@ -26,4 +26,5 @@ share: true
 - Nicht ganz so böse
 - gelangweilt
 - Helfen mir langsam auch Macht in [Vallaki](../Places/D%C3%B6rfer/Vallaki.md) zu bekommen
-- 
+- Nikolaj ist der ältere
+- Karl ist der jüngere
