@@ -1,5 +1,5 @@
 ---
-Datum: 25.8.2023
+created: 25.8.2023
 share: true
 ---
 [Louis Langhammer](../Party/Louis%20Langhammer.md) geht nochmal zur [Schmiede](Schmiede.md), holt sich seine Rüstung ab
