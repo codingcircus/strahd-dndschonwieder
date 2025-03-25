@@ -7,6 +7,9 @@ Class: Normal
 Alignment: Neutral
 Job: Bürgermeister
 share: true
+aliases:
+  - Bürgermeister von Vallaki
+  - Bürgermeister
 ---
 
 >[!infobox]
