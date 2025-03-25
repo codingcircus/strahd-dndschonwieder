@@ -1,5 +1,5 @@
 ---
-created: 30.4.2024
+created: 2024-04-30
 share: true
 ---
 Wir sind beim [Bürgermeister](../NPCs/Baron%20Vargas%20Vallakovich.md) eingeladen

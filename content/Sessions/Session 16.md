@@ -1,5 +1,5 @@
 ---
-created: 24.6.2024
+created: 2024-06-24
 share: true
 ---
 Das Fest der brennenden Sonne findet statt
