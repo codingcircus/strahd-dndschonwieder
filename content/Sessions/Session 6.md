@@ -1,10 +1,7 @@
 ---
-Datum: 16.3.2022
+Datum: 22.4.2023
+share: true
 ---
-- Wir werden von [[Davian Martikov]] begrüßt, dem Weinbauern
-	- [[Adrian Martikov]], sein ältester Sohn
-	- [[Elvir Martikov]], sein jüngster Sohn
-	- [[Stefania Martikov]], seine Tochter
-	- [[Dag Tomescu]], Stefanias Mann
-	* [[Stefanias Kinder]]
-- Eine Frau kommt zum Anwesen, sie wird von Druiden verfolgt [[Ezmerelda d'Avenir]]
+- Am Weiland Hügel kämpfen wir gegen ein Bergvolk und den [Wintersplinter](Wintersplinter.md)
+- [Gritta](../Party/Gritta.md) zerbricht ihren [Gulthiasstab](Gulthiasstab.md) und besiegt somit den [Wintersplinter](Wintersplinter.md)
+- Wir finden ein Juwel und bringen es zurück zum [Weingut](../Places/Geb%C3%A4ude/Der%20Weinmagier.md)
