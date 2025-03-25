@@ -24,8 +24,14 @@ Alignment: Gut
 > Klasse | Magier |
 > Job | Winzer |
 
-
-- Vater von [Urwin Martikov](./Urwin%20Martikov.md)
 - Chef des [Der Weinmagier](../Places/Geb%C3%A4ude/Der%20Weinmagier.md)
-- Ältestes Mitglied der Werraben
-- Anführer der [Hüter der Feder](./Guilds/H%C3%BCter%20der%20Feder.md)
+- Ältestes Mitglied und Anführer der [Hüter der Feder](./Guilds/H%C3%BCter%20der%20Feder.md)
+
+## Familie
+
+- [Adrian Martikov](./Adrian%20Martikov.md), sein ältester Sohn
+- [Urwin Martikov](./Urwin%20Martikov.md)
+- [Elvir Martikov](Elvir%20Martikov.md), sein jüngster Sohn
+- [Stefania Martikov](./Stefania%20Martikov.md), seine Tochter
+- [Dag Tomescu](Dag%20Tomescu.md), Stefanias Mann
+* [Stefanias Kinder](Stefanias%20Kinder.md)
