@@ -1,8 +1,11 @@
 ---
-Datum: 22.4.2023
+Datum: 20.5.2023
+share: true
 ---
-- Das Weingut wird von Druiden angegriffen, die sich fast nicht mehr menschlich artikulieren können
-- Wir besiegen die Druiden und ihre Zweigmonster
-- Die Druiden sagen uns, dass der [[Wintersplinter]] kommen wird
-- Die Martikovs erzählen uns davon, dass früher 3 Juwelen dem Weingut einen magischen Schutz gegeben haben. Quest: [[Die Juwelen des Weinguts]]
-- Wir beschließen zum [[Weiland Hügel]] aufzubrechen, um eines der Juwelen zu holen
+## Wintersplinter Nachspiel
+
+Wir treffen [Balthasar Buddelsam](../NPCs/Balthasar%20Buddelsam.md) und seine Freundin [Eyavenara](Eyavenara.md), die Paladine. Gemeinsam finden wir auf dem Hügel einen [Gulthias Baum](Gulthias%20Baum.md). Von diesem hängen, wie Marionetten, Leichen. Aus dem Baum bauen wir auch eine Axt aus dem Baum
+
+## Etwas Später
+
+[Ezmerelda d'Avenir](../NPCs/Ezmerelda%20d'Avenir.md) legt uns [Tarot Karten](Tarot%20Karten%20von%20Ezmerelda.md), die uns Hinweise auf unser Schicksal hier geben. [Johnny](../Party/Johnny%20Rosenthaler.md) gibt [ihr](../NPCs/Ezmerelda%20d'Avenir.md) einen unserer [Sending Stone](Sending%20Stone.md)s
