@@ -1,5 +1,5 @@
 ---
-created: 20.3.2025
+created: 2025-03-20
 share: true
 ---
 - Wir starten in der [Taverne von Barovia](../Places/zur%20blutigen%20Weintraube.md)
@@ -23,10 +23,3 @@ share: true
 - Wir gehen ins Haus und Kämpfen wieder Gegen Astwesen die zum [Gulthias Baum ](Gulthias%20Baum.md)gehören
 - Ich mixe Weihwasser mit der Asche des [Gulthias Baum](Gulthias%20Baum.md)
 - Gritta schiebt als Wolf den Sarg hinaus, durch ein Loch, dass Louis mit seiner Rüstung gemacht hat
-
-## Fragen
-
-- Was ist mit meinen Phiolen passiert?
-- An [Louis](../Party/Louis%20Langhammer.md): beeindruckt, dass er durch die Wand gelaufen ist, ich würde gerne mit im Trainieren
-- An [Gritta](../Party/Gritta.md): Sehr beeindruckend, dass sie sich verwandeln kann. Herausforderung dass sie sich in einen Pinguin verwandelt um mit [Pingu](Pingu.md) zu kommunizieren 
-- [ein magisches Amulet](ein%20magisches%20Amulet.md) untersuchen. Gehört es den Raben? Ist es aus den Tarotkarten?
