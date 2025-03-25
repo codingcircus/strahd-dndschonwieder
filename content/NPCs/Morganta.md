@@ -26,7 +26,7 @@ share: true
 - Sie hat Jeska entführt
 - Wollte unsere Schatten stehlen
 - Wollte unsere Augen stehlen, stattdessen haben wir sie ausgetrickst
-- Hat zwei Töchter [Bella & Ophelia](Bella%20&%20Ophelia.md)
+- Hat zwei Töchter [Bella](Bella.md) & [Ophelia](Ophelia.md)
 - Untertags ist sie nicht so mächtig
 - Wird uns in Träumen heimsuchen
 	- Wir müssen Wache halten um schlafen zu können
