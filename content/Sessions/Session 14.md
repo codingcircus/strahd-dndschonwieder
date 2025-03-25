@@ -1,5 +1,5 @@
 ---
-Datum: 15.3.2024
+created: 15.3.2024
 share: true
 ---
 In [Vallaki](../Places/D%C3%B6rfer/Vallaki.md) sehen wir am Tor einen aufgebrachten [Vistany](../NPCs/Guilds/Vistany.md)
