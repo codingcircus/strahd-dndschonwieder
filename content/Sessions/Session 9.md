@@ -1,5 +1,5 @@
 ---
-Datum: 4.8.2023
+created: 4.8.2023
 share: true
 ---
 In Vallaki suchen wir gleich das [Gasthaus Blauwasser](../Places/Geb%C3%A4ude/Gasthaus%20Blauwasser.md). Auf den Häusern sieht man immer wieder ein Sonnensymbol, ws. das Symbol des [Morgenfürst](Morgenf%C3%BCrst.md).
