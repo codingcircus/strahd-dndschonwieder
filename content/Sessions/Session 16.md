@@ -1,12 +1,13 @@
 ---
-Datum: 15.12.2023
+Datum: 24.6.2024
+share: true
 ---
-Wir sind bei Frau Wachter
-[[Allentato]] wartet im Keller, dort fühlt er andere Skelette
-[[Johnny Rosenthaler]] und [[Louis Langhammer]] geben sich als unsere Diener aus und warten im Personalbereich
-Sie freunden sich mit ein paar Bediensteten an und schleichen sich durchs Haus
-In einem Zimmer ist eine junge Frau, [[Natasia Wachter]], die sich wie eine Katze benimmt
-Gritta und ich trinken mit den jungen Wachters [[Karl & Nikolaj Wachter]] schon mal
-Später kommt [[Fiona Wachter]] dazu
-Sie will dass wir den [[Baron Vargas Vallakovich|Bürgermeister]] töten
-In einer Tür sehen wir kurzen einen alten Mann durchschauen, er verschwindet gleich wieder.
+Das Fest der brennenden Sonne findet statt
+Die Party geht zum [Henrik van der Voort](../NPCs/Henrik%20van%20der%20Voort.md), dem Sargbauern
+Dort werden sie von Vampiren angegriffen
+3 Vampire: 
+- Zwerg
+- Elfin
+- Priester mit Medaillon
+Nachdem sie fast besiegt werden, leuchtet die Axt von [Louis Langhammer](../Party/Louis%20Langhammer.md) auf und er rettet den Tag
+Es war die Macht von [Markovia](Markovia.md)
