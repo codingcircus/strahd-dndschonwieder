@@ -7,6 +7,9 @@ Class: keine
 Alignment: Böse
 Job: Wohlhabende
 share: true
+aliases:
+  - Fiona
+  - Die Wachter
 ---
 
 >[!infobox]
@@ -21,3 +24,5 @@ share: true
 > Ausrichtung | Böse |
 > Klasse | keine |
 > Job | Wohlhabende |
+
+- Ihre Familie unterstützt [Strahd](./Strahd%20von%20Zarovich.md)
