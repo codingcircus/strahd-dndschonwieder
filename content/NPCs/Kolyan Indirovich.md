@@ -1,28 +1,37 @@
 ---
-Guild: keine
-Gender: Männlich
-Species: Mensch
-Age: Tod
-Class: Normal
-Alignment: Neutral
-Job: Bürgermeister
+group: keine
+gender: Männlich
+species: Mensch
+age: Alt
+class: Normal
+alignment:
+  - Neutral
+job: Bürgermeister
 share: true
 aliases:
   - Bürgermeister von Barovia
+location: "[[Vallaki]]"
+condition: Gesund
 ---
 
->[!infobox]
->##### Basic Information
->Type | Stat |
->----  | ----  |
-> Wohnort | [Dorf Barovia](../Places/D%C3%B6rfer/Dorf%20Barovia.md) |
-> Gruppe | keine |
+> [!infobox]
+> # Kolyan Indirovich
+> ![ImagePlaceholder.png](../ImagePlaceholder.png)
+> ###### Basic Information
+> Type |  Stat |
+> ---|---|
+> Ort | [Vallaki](../Places/D%C3%B6rfer/Vallaki.md) |
+> Guilde | keine |
 > Geschlecht | Männlich |
-> Alter | Tod |
 > Spezies | Mensch |
-> Ausrichtung | Neutral |
-> Klasse | Normal |
-> Job | Bürgermeister |
+> Job| Bürgermeister|
+> Age | Alt |
+> Zustand |`INPUT[gesundheit][:condition]`| 
+> ###### Rules Info
+> Type |  Stat |
+> ---|---|
+> Ausrichtung|Neutral|
+> Klasse|Normal|
 
 
 - vor 2 Tagen verstorben
