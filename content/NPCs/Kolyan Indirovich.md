@@ -1,5 +1,5 @@
 ---
-group: keine
+guild: keine
 gender: Männlich
 species: Mensch
 age: Alt
@@ -8,10 +8,10 @@ alignment:
   - Neutral
 job: Bürgermeister
 share: true
+condition: Tod
 aliases:
   - Bürgermeister von Barovia
-location: "[[Vallaki]]"
-condition: Gesund
+location: "[[Dorf Barovia]]"
 ---
 
 > [!infobox]
@@ -20,18 +20,20 @@ condition: Gesund
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
-> Ort | [Vallaki](../Places/D%C3%B6rfer/Vallaki.md) |
+> Ort | [Dorf Barovia](../Places/D%C3%B6rfer/Dorf%20Barovia.md) |
 > Guilde | keine |
 > Geschlecht | Männlich |
 > Spezies | Mensch |
 > Job| Bürgermeister|
-> Age | Alt |
-> Zustand |`INPUT[gesundheit][:condition]`| 
+> Alter | Alt |
+> Gesundheit | Tod |
 > ###### Rules Info
 > Type |  Stat |
 > ---|---|
 > Ausrichtung|Neutral|
 > Klasse|Normal|
+
+## Infos
 
 
 - vor 2 Tagen verstorben
