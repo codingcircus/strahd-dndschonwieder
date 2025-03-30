@@ -2,24 +2,30 @@
 created: 2023-08-04
 share: true
 ---
-In Vallaki suchen wir gleich das [Gasthaus Blauwasser](../Places/Geb%C3%A4ude/Gasthaus%20Blauwasser.md). Auf den Häusern sieht man immer wieder ein Sonnensymbol, ws. das Symbol des [Morgenfürst](Morgenf%C3%BCrst.md).
+## In [Vallaki](../Places/D%C3%B6rfer/Vallaki.md)
 
-## Im Gasthaus
+Wir sehen viele Holzhäuser mit Sonnensymbol, wahrscheinlich das Symbol des [Morgenfürst](Morgenf%C3%BCrst.md)en. Wir suchen das [Gasthaus Blauwasser](../Places/Geb%C3%A4ude/Gasthaus%20Blauwasser.md). Die Dorfbewohner meiden Blickkontakt mit uns. 
 
-Das Gasthaus wird von [Urwin Martikov](../NPCs/Urwin%20Martikov.md) geführt und seiner Frau [Danika Dorakova](Danika%20Dorakova.md). Sie haben zwei Söhne, [Brom](Brom.md) & [Bray](Bray.md)
+## Im [Gasthaus](../Places/Geb%C3%A4ude/Gasthaus%20Blauwasser.md)
 
-Im Gasthaus sind einige andere Leute mit denen wir reden
-- Ricardo, eigentlich [Rudolf van Richten](../NPCs/Rudolf%20van%20Richten.md)
-- [Leander](Leander.md) erzählt uns von den Festen des [Bürgermeister von Vallaki](../NPCs/Baron%20Vargas%20Vallakovich.md). Wer ihnen fernbleibt wird bestraft. Sie sind ein Mittel gegen [Strahd](../NPCs/Strahd%20von%20Zarovich.md).
-- [Karl & Nikolaj Wachter](../NPCs/Karl%20&%20Nikolaj%20Wachter.md)
-Wir erfahren, dass die [Vistany](../NPCs/Guilds/Vistany.md) Probleme machen
-Louis gibt an
-Wir erfahren von [OIeana](OIeana.md) in [Barovia](../Places/Barovia.md)
-Wir erfahren von [Irina Kolyanovich](../NPCs/Irina%20Kolyanovich.md), der schönsten Frau von [Barovia](../Places/Barovia.md)
-Nördlich ist der [Zarovich See](../Places/Natur/Zarovich%20See.md)
-Wir versuchen uns zum Teekränzchen bei [Fiona Wachter](../NPCs/Fiona%20Wachter.md) über die beiden Söhne einzuladen
-Wir spazieren durch [Vallaki](../Places/D%C3%B6rfer/Vallaki.md)
-Es herrscht ein Fest, der [Bürgermeister](../NPCs/Baron%20Vargas%20Vallakovich.md) zwingt alle zu feiern
-Wir spazieren am [ Spielzeuggeschäft](Blinsky%20-%20Spielwaren.md) vorbei und kommen zur [Schmiede](Schmiede.md) von [Mirabel](../NPCs/Mirabel.md)
-[Arasek](../Places/Geb%C3%A4ude/Arasek.md) kauft Edelsteine
-Wir hecken einen Plan aus [Gritta](../Party/Gritta.md) zur verkleiden als Cordelia, die Cousine von mir, um zu den Wachters zu gehen
+Das Gasthaus wird von [Urwin Martikov](../NPCs/Urwin%20Martikov.md) geführt und seiner Frau [Danika Dorakova](Danika%20Dorakova.md). Sie haben zwei Söhne, [Brom](Brom.md) & [Bray](Bray.md). Auf dem Gasthaus sitzen auch Raben. 
+
+Im Gasthaus sind einige andere Leute. [Rictavio](../NPCs/Rudolf%20van%20Richten.md), ein Halbelf stellt sich vor. Er will uns später bei den Ställen treffen. 
+
+Wir sehen aber auch einen alten Bekannten: [Leander](../NPCs/Leander.md). Er erzählt uns von den Festen des [Bürgermeister von Vallaki](../NPCs/Baron%20Vargas%20Vallakovich.md). Wer ihnen fernbleibt, wird bestraft. Sie sollen ein Mittel gegen [Strahd](../NPCs/Strahd%20von%20Zarovich.md) sein. Er selbst will zum [Baratok See](../Places/Natur/Baratok%20See.md) aufbrechen, um einen Magier aufzuhalten. Seine Freundin [Oleana](Oleana.md) hat ihn verlassen, weil er in der Nacht von [Irina Kolyana](../NPCs/Irina%20Kolyana.md) geträumt hat. 
+
+Ich rede mit den Leuten, die am reichsten aussehen. [Karl Wachter](../NPCs/Karl%20Wachter.md) und [Nikolaj](../NPCs/Nikolaj%20Wachter.md). Wir versuchen uns zum Teekränzchen bei [ihrer Mutter](../NPCs/Fiona%20Wachter.md) einzuladen. 
+
+Später treffen wir [Rictavio](../NPCs/Rudolf%20van%20Richten.md) wieder, der sich als [Van Richten](../NPCs/Rudolf%20van%20Richten.md) zu erkennen gibt. Er will uns gegen [Strahd](../NPCs/Strahd%20von%20Zarovich.md) helfen. Louis gibt an, Van Richten durchschaut ihn aber.
+
+## Zur Schmiedin
+
+Wir gehen zum Elendstor, weil dort eine Schmiedin sein soll, die [Louis](../Party/Louis%20Langhammer.md) besuchen will. Wir kommen auch am [Blinsky - Spielwaren](../Places/Geb%C3%A4ude/Blinsky%20-%20Spielwaren.md)geschäft vorbei. Am Weg wird [Allentato](../Party/Allentato.md) außerdem mit einem Messer überfallen.  
+
+Wir kommen zur Schmiede von [Mirabel](../NPCs/Mirabel.md). Die Besitzerin hat zwei Persönlichkeiten, eine davon ist vielleicht [Markovia](Markovia.md) selbst. 
+
+## Dorffest
+
+Wir verkaufen ein paar Edelsteine bei [Arasek](../Places/Geb%C3%A4ude/Arasek.md). Danach gehen wir weiter zum Dorffest, der [Bürgermeister](../NPCs/Baron%20Vargas%20Vallakovich.md) zwingt alle zu feiern. 
+
+Wir hecken einen Plan aus und wollen [Gritta](../Party/Gritta.md) als Cordelia verkleiden, die Cousine von mir, um zu den Wachters zu gehen.
