@@ -1,31 +1,40 @@
 ---
-Guild: "[Hexen](./Guilds/Hexen.md)"
-Gender: Weiblich
-Species: Hexe
-Age: Alt
-Class: Magier
-Alignment: Böse
+guild: "[[Hexen]]"
+gender: Weiblich
+species: Hexe
+age: Alt
+class: Magier
+alignment: Böse
 share: true
+condition: Gesund
 aliases:
   - Baba
 ---
 
->[!infobox]
->##### Basic Information
->Type | Stat |
->----  | ----  |
-> Wohnort | [Beres Sümpfe](Beres%20S%C3%BCmpfe.md)  |
-> Gruppe | [Hexen](./Guilds/Hexen.md) |
+> [!infobox]
+> # Baba Lysaga
+> ![ImagePlaceholder.png](../ImagePlaceholder.png)
+> ###### Basic Information
+> Type |  Stat |
+> ---|---|
+> Ort |  |
+> Guilde | [Hexen](./Guilds/Hexen.md) |
 > Geschlecht | Weiblich |
-> Alter | Alt |
 > Spezies | Hexe |
-> Ausrichtung | Böse |
-> Klasse | Magier |
+> Job| |
+> Alter | Alt |
+> Gesundheit | Gesund |
+> ###### Rules Info
+> Type |  Stat |
+> ---|---|
+> Ausrichtung|Böse|
+> Klasse|Magier|
 
-- Hexe aus den Sümpfen in Südosten
+## Infos
+
+- Hexe aus den Sümpfen in Südosten, ehemalige [Berez](../Places/D%C3%B6rfer/Berez.md) Siedlung
 - hat vielleicht eines der [Weingut Juwelen](Die%20Juwelen%20des%20Weinguts.md)
 - Fühlt sich als Mutter von [Strahd von Zarovich](./Strahd%20von%20Zarovich.md). Eigentlich war sie sein Kindermädchen und hat ihm Magie beigebracht.
 - Am besten geht man ihr aus dem Weg
 - Hat gefährliche Illusionszauber
-- Vielleicht weiß im [Camp der Vistany](../Places/D%C3%B6rfer/Camp%20der%20Vistany.md) jemand mehr über sie
 - Vielleicht weiß [Van Richten](./Rudolf%20van%20Richten.md) mehr über sie
