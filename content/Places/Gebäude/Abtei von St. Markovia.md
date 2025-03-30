@@ -1,10 +1,24 @@
 ---
 share: true
+leader: "[[Abt]]"
+leaderTitle: Abt
+location: "[[Krezk]]"
 ---
 
-| Type | Stat |
-| --- | --- |
-| Herrscher | [Abt](../../NPCs/Abt.md) |
+>[!infobox] 
+> ###### Basic Information
+>Type|Stat|
+>---|---|
+>Abt|[Abt](../../NPCs/Abt.md)|
+>Ort | [Krezk](../D%C3%B6rfer/Krezk.md) |
+
+## Anwesend
+| Name                 | Job | Spezies | Zustand |
+| -------------------- | --- | ------- | ------- |
+| [Abt](../../NPCs/Abt.md) | \-  | \-      | Gesund  |
+
+
+## Infos
 
 - Wir haben noch nicht genug Level um dort hinzugehen
 - Ist ein verfluchter Ort 
