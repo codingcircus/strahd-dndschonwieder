@@ -1,8 +1,24 @@
 ---
 share: true
+Leader: "[[Madame Eva]]"
+LeaderTitle: Anführer
+Inhabitants: "[[Vistany]]"
+Size: ~ 50 Leute
 ---
 
-| Type | Stat |
-| --- | --- |
-| Herrscher | [Madame Eva](Madame%20Eva.md) |
+
+>[!infobox] 
+>Type|Stat|
+>---|---|
+>Anführer|[Madame Eva](../../NPCs/Madame%20Eva.md)|
+>Haupteinwohner|[Vistany](../../NPCs/Guilds/Vistany.md)|
+>Größe|~ 50 Leute|
+
+## Benannte Bewohner
+| Name                               | Job            | Spezies | Zustand |
+| ---------------------------------- | -------------- | ------- | ------- |
+| [Jeska](../../NPCs/Jeska.md)           | Magierlehrling | Mensch  | Gesund  |
+| [Madame Eva](../../NPCs/Madame%20Eva.md) | \-             | \-      | Gesund  |
+
+
 

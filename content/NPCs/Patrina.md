@@ -1,28 +1,38 @@
 ---
-Guild: 
-Gender: weiblich
-Species: Elf
-Location: 
-Age: 
-Class: 
-Alignment: 
-Job: 
+guild: 
+gender: weiblich
+species: Elf
+location: 
+age: 
+class: 
+alignment: 
+job: 
 aliases: 
 share: true
+condition: Gesund
 ---
 
->[!infobox]
->##### Basic Information
->Type | Stat |
->----  | ----  |
-> Wohnort |  |
+> [!infobox]
+> # Patrina
+> ![ImagePlaceholder.png](../ImagePlaceholder.png)
+> ###### Basic Information
+> Type |  Stat |
+> ---|---|
+> Ort |  |
 > Guilde |  |
 > Geschlecht | weiblich |
-> Alter |  |
 > Spezies | Elf |
-> Ausrichtung |  |
-> Klasse |  |
-> Job |  |
+> Job| |
+> Alter |  |
+> Gesundheit | Gesund |
+> ###### Rules Info
+> Type |  Stat |
+> ---|---|
+> Ausrichtung||
+> Klasse||
+
+## Infos
 
 - Schwester von [Kasimir Velikov](./Kasimir%20Velikov.md)
-- 
+- wurde von [Kasimir](./Kasimir%20Velikov.md) gesteinigt, weil sie [Strahd](./Strahd%20von%20Zarovich.md) heiraten wollte. [Strahd](./Strahd%20von%20Zarovich.md) hat dann dafür alle Frauen und Kinder der Elfen getötet. 
+- Sie schickt [Kasimir](./Kasimir%20Velikov.md) jetzt regelmäßig Alpträume

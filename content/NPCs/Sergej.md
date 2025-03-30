@@ -1,27 +1,36 @@
 ---
-Guild: 
-Gender: 
-Species: 
-Location: 
-Age: Tod
-Class: 
-Alignment: 
-Job: 
+guild: 
+gender: 
+species: 
+location: 
+age: 
+class: 
+alignment: 
+job: 
 aliases: 
 share: true
+condition: Tod
 ---
 
->[!infobox]
->##### Basic Information
->Type | Stat |
->----  | ----  |
-> Wohnort |  |
+> [!infobox]
+> # Sergej
+> ![ImagePlaceholder.png](../ImagePlaceholder.png)
+> ###### Basic Information
+> Type |  Stat |
+> ---|---|
+> Ort |  |
 > Guilde |  |
 > Geschlecht |  |
-> Alter | Tod |
 > Spezies |  |
-> Ausrichtung |  |
-> Klasse |  |
-> Job |  |
+> Job| |
+> Alter |  |
+> Gesundheit | Tod |
+> ###### Rules Info
+> Type |  Stat |
+> ---|---|
+> Ausrichtung||
+> Klasse||
+
+## Infos
 
 - Bruder von [Strahd](./Strahd%20von%20Zarovich.md)

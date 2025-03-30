@@ -1,26 +1,39 @@
 ---
-Guild: keine
-Gender: Männlich
-Species: Mensch
-Age: Alt
-Class: keine
-Alignment: Böse
-Job: Sargbauer
+guild: keine
+gender: Männlich
+species: Mensch
+age: Alt
+class: keine
+alignment:
+  - Böse
+job: Sargbauer
+location: "[[Vallaki]]"
 share: true
+condition: Gesund
+aliases:
+  - Henrik
 ---
 
 
->[!infobox]
->##### Basic Information
->Type | Stat |
->----  | ----  |
-> Wohnort | [Vallaki](../Places/D%C3%B6rfer/Vallaki.md) |
+> [!infobox]
+> # Henrik van der Voort
+> ![ImagePlaceholder.png](../ImagePlaceholder.png)
+> ###### Basic Information
+> Type |  Stat |
+> ---|---|
+> Ort | [Vallaki](../Places/D%C3%B6rfer/Vallaki.md) |
 > Guilde | keine |
 > Geschlecht | Männlich |
-> Alter | Alt |
 > Spezies | Mensch |
-> Ausrichtung | Böse |
-> Klasse | keine |
-> Job | Sargbauer |
+> Job| Sargbauer|
+> Alter | Alt |
+> Gesundheit | Gesund |
+> ###### Rules Info
+> Type |  Stat |
+> ---|---|
+> Ausrichtung|Böse|
+> Klasse|keine|
+
+## Infos
 
 - Sein Sohn wurde von Werwölfen erwischt

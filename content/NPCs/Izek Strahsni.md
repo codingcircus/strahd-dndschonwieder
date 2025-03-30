@@ -1,12 +1,14 @@
 ---
-Guild: keine
-Gender: Männlich
-Species: Mensch
-Age: Mittelalt
-Class: keine
-Alignment: Neutral
-Job: Rechte Hand des Bürgermeisters
+guild: keine
+gender: Männlich
+species: Mensch
+age: Mittelalt
+location: "[[Vallaki]]"
+class: keine
+alignment: Neutral
+job: Rechte Hand des Bürgermeisters
 share: true
+condition: Gesund
 aliases:
   - Mann mit Glatze
   - Schreckensmann
@@ -15,17 +17,28 @@ aliases:
   - Izek
 ---
 
->[!infobox]
->##### Basic Information
->Type | Stat |
->----  | ----  |
-> Wohnort | [Vallaki](../Places/D%C3%B6rfer/Vallaki.md) |
+> [!infobox]
+> # Izek Strahsni
+> ![ImagePlaceholder.png](../ImagePlaceholder.png)
+> ###### Basic Information
+> Type |  Stat |
+> ---|---|
+> Ort | [Vallaki](../Places/D%C3%B6rfer/Vallaki.md) |
 > Guilde | keine |
 > Geschlecht | Männlich |
-> Alter | Mittelalt |
 > Spezies | Mensch |
-> Ausrichtung | Neutral |
-> Klasse | keine |
-> Job | Rechte Hand des Bürgermeisters |
+> Job| Rechte Hand des Bürgermeisters|
+> Alter | Mittelalt |
+> Gesundheit | Gesund |
+> ###### Rules Info
+> Type |  Stat |
+> ---|---|
+> Ausrichtung|Neutral|
+> Klasse|keine|
 
-Schreckenswölfe haben seinen Arm gefressen
+## Infos
+
+- Er und seine Schwester [Jasmin](Jasmin.md) wurden beim Angeln von [Werwölfe](Werw%C3%B6lfe.md)n angegriffen. 
+- Werwölfe haben seinen Arm gefressen
+- [Seine Schwester](Jasmin.md) ist verschwunden
+- Lebte im Waisenhaus, wurde immer gehänselt. Eines Nachts wuchs sein Arm nach, in der gleichen Nacht starben alle anderen im Waisenhaus. Seitdem lebt er bei [Bürgermeister von Vallaki](./Baron%20Vargas%20Vallakovich.md)

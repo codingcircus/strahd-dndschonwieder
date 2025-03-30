@@ -1,26 +1,39 @@
 ---
-Guild: keine
-Gender: Männlich
-Species: Elf
-Age: Alt
-Class: Magier
-Alignment: Gut
-Job: Magier
+guild: keine
+gender: Männlich
+species: Elf
+age: Alt
+location: "[[Camp der Vistany]]"
+class: Magier
+alignment:
+  - Gut
+job: Magier
 share: true
+condition: Gesund
+aliases:
+  - Kasimir
 ---
 
->[!infobox]
->##### Basic Information
->Type | Stat |
->----  | ----  |
-> Wohnort | [Camp der Vistany](../Places/D%C3%B6rfer/Camp%20der%20Vistany.md) |
+> [!infobox]
+> # Kasimir Velikov
+> ![ImagePlaceholder.png](../ImagePlaceholder.png)
+> ###### Basic Information
+> Type |  Stat |
+> ---|---|
+> Ort | [Camp der Vistany](../Places/D%C3%B6rfer/Camp%20der%20Vistany.md) |
 > Guilde | keine |
 > Geschlecht | Männlich |
-> Alter | Alt |
 > Spezies | Elf |
-> Ausrichtung | Gut |
-> Klasse | Magier |
-> Job | Magier |
+> Job| Magier|
+> Alter | Alt |
+> Gesundheit | Gesund |
+> ###### Rules Info
+> Type |  Stat |
+> ---|---|
+> Ausrichtung|Gut|
+> Klasse|Magier|
+
+## Infos
 
 - Seine Ohren wurden abgeschnitten
 - [Seine Schwester](./Patrina.md) wollte [Strahd von Zarovich](./Strahd%20von%20Zarovich.md) heiraten. Er hat sie gesteinigt, damit sie das nicht tut 

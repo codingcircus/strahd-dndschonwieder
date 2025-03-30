@@ -1,33 +1,38 @@
 ---
-Guild:
-  - 
-Gender: männlich
-Species:
-  - 
-Location: "[[Abtei von St. Markovia]]"
-Age: Jung
-Class:
-  - 
-Alignment:
-  - 
-Job:
-  - 
+guild: 
+gender: männlich
+species: 
+location: "[[Krezk]]"
+age: Jung
+class: 
+alignment:
+  - Böse
+job: 
 aliases: 
 share: true
+condition: Gesund
+building: "[[Abtei von St. Markovia]]"
 ---
- 
->[!infobox]
->##### Basic Information
->Type | Stat |
->----  | ----  |
-> Wohnort | [Abtei von St. Markovia](../Places/Geb%C3%A4ude/Abtei%20von%20St.%20Markovia.md) |
+
+> [!infobox]
+> # Abt
+> ![ImagePlaceholder.png](../ImagePlaceholder.png)
+> ###### Basic Information
+> Type |  Stat |
+> ---|---|
+> Ort | [Krezk](../Places/D%C3%B6rfer/Krezk.md) |
 > Guilde |  |
 > Geschlecht | männlich |
-> Alter | Jung |
 > Spezies |  |
-> Ausrichtung |  |
-> Klasse |  |
-> Job |  |
+> Job| |
+> Alter | Jung |
+> Gesundheit | Gesund |
+> ###### Rules Info
+> Type |  Stat |
+> ---|---|
+> Ausrichtung|Böse|
+> Klasse||
 
+## Infos
 
 - [Ismark](./Ismark%20Kol%C2%ADyanovich.md) erzählt uns, dass er Leute aus dem Jenseits zurückholt. Meistens sind diese sehr verwirrt

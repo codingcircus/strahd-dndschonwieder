@@ -1,26 +1,36 @@
 ---
-Guild: keine
-Gender: Weiblich
-Species: Mensch
-Age: Jung
-Class: keine
-Alignment: Böse
-Job: Wohlhabend
+guild: keine
+gender: Weiblich
+species: Mensch
+age: Jung
+class: keine
+alignment: Böse
+job: Wohlhabend
 share: true
+condition: Gesund
+location: "[[Dolchfurth]]"
 ---
 
->[!infobox]
->##### Basic Information
->Type | Stat |
->----  | ----  |
-> Wohnort | [Dolchfurth](Dolchfurth.md) |
+> [!infobox]
+> # Gräfin Amelie von Dolchfurth
+> ![ImagePlaceholder.png](../ImagePlaceholder.png)
+> ###### Basic Information
+> Type |  Stat |
+> ---|---|
+> Ort | [[Dolchfurth|Dolchfurth]] |
 > Guilde | keine |
 > Geschlecht | Weiblich |
-> Alter | Jung |
 > Spezies | Mensch |
-> Ausrichtung | Böse |
-> Klasse | keine |
-> Job | Wohlhabend |
+> Job| Wohlhabend|
+> Alter | Jung |
+> Gesundheit | Gesund |
+> ###### Rules Info
+> Type |  Stat |
+> ---|---|
+> Ausrichtung|Böse|
+> Klasse|keine|
+
+## Infos
 
 
 - hat uns vergiftet und nach [Barovia](../Places/Barovia.md) gebracht

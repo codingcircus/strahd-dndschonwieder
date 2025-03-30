@@ -1,25 +1,34 @@
 ---
-Guild: 
-Gender: 
-Species: 
-Location: 
-Age: 
-Class: 
-Alignment: 
-Job: 
+guild: 
+gender: 
+species: 
+location: 
+age: 
+class: 
+alignment: 
+job: 
 aliases: 
+condition: Gesund
 share: true
 ---
 
->[!infobox]
->##### Basic Information
->Type | Stat |
->----  | ----  |
-> Wohnort |  |
+> [!infobox]
+> # New NPC
+> ![ImagePlaceholder.png](../ImagePlaceholder.png)
+> ###### Basic Information
+> Type |  Stat |
+> ---|---|
+> Ort |  |
 > Guilde |  |
 > Geschlecht |  |
-> Alter |  |
 > Spezies |  |
-> Ausrichtung |  |
-> Klasse |  |
-> Job |  |
+> Job| |
+> Alter |  |
+> Gesundheit | Gesund |
+> ###### Rules Info
+> Type |  Stat |
+> ---|---|
+> Ausrichtung||
+> Klasse||
+
+## Infos

@@ -1,25 +1,35 @@
 ---
-Guild: keine
-Gender: Männlich
-Species: Mensch
-Age: Jung
-Class: keine
-Alignment: Neutral
-Job: Händler
+guild: keine
+gender: Männlich
+species: Mensch
+age: Jung
+class: keine
+alignment: Neutral
+job: Händler
+location: "[[Dorf Barovia]]"
 share: true
+condition: Gesund
 ---
 
->[!infobox]
->##### Basic Information
->Type | Stat |
->----  | ----  |
-> Wohnort | [Dorf Barovia](../Places/D%C3%B6rfer/Dorf%20Barovia.md) |
+> [!infobox]
+> # Pariwimpel
+> ![ImagePlaceholder.png](../ImagePlaceholder.png)
+> ###### Basic Information
+> Type |  Stat |
+> ---|---|
+> Ort | [Dorf Barovia](../Places/D%C3%B6rfer/Dorf%20Barovia.md) |
 > Guilde | keine |
 > Geschlecht | Männlich |
-> Alter | Jung |
 > Spezies | Mensch |
-> Ausrichtung | Neutral |
-> Klasse | keine |
-> Job | Händler |
+> Job| Händler|
+> Alter | Jung |
+> Gesundheit | Gesund |
+> ###### Rules Info
+> Type |  Stat |
+> ---|---|
+> Ausrichtung|Neutral|
+> Klasse|keine|
+
+## Infos
 
 - Neffe von [Bildrath](Bildrath.md)

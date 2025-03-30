@@ -1,26 +1,35 @@
 ---
-Guild: 
-Gender: 
-Species: 
-Location: 
-Age: 
-Class: Cleric
-Alignment: 
-Job: 
+guild: 
+gender: 
+species: 
+location: 
+age: 
+class: Cleric
+alignment: 
+job: 
 aliases:
   - Balthasar
 share: true
+condition: Gesund
 ---
 
->[!infobox]
->##### Basic Information
->Type | Stat |
->----  | ----  |
-> Wohnort |  |
+> [!infobox]
+> # Balthasar Buddelsam
+> ![ImagePlaceholder.png](../ImagePlaceholder.png)
+> ###### Basic Information
+> Type |  Stat |
+> ---|---|
+> Ort |  |
 > Guilde |  |
 > Geschlecht |  |
-> Alter |  |
 > Spezies |  |
-> Ausrichtung |  |
-> Klasse | Cleric |
-> Job |  |
+> Job| |
+> Alter |  |
+> Gesundheit | Gesund |
+> ###### Rules Info
+> Type |  Stat |
+> ---|---|
+> Ausrichtung||
+> Klasse|Cleric|
+
+## Infos

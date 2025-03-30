@@ -2,24 +2,36 @@
 created: 2025-03-20
 share: true
 ---
-- Wir starten in der [Taverne von Barovia](../Places/zur%20blutigen%20Weintraube.md)
-- [Ismark Kol­yanovich](../NPCs/Ismark%20Kol%C2%ADyanovich.md) hat noch eine Seele, wirkt aber sehr bedrückt
-- Tote Körper müssen dem [Morgenfürst](Morgenf%C3%BCrst.md) übergeben werden
-- [Dimitri](../NPCs/Dimitri.md), der den Sarg für den [Bürgermeister von Barovia](../NPCs/Kolyan%20Indirovich.md) bauen soll, hat den Verstand verloren
-- Wenn wir ihm helfen den Sarg zu holen kriegen wir (jeder) ein Wohnheim und 50 Gold
-- Evt. ist unser Name jetzt die [Husarenbande](../Party/Husarenbande.md)
-- [Ismark](../NPCs/Ismark%20Kol%C2%ADyanovich.md) sagt uns, dass der Brief seines Vaters gefälscht ist
-- Er erzählt uns, dass [Strahd](../NPCs/Strahd%20von%20Zarovich.md) seine [Schwester](../NPCs/Irina%20Kolyanovich.md) verführen will, er hat sie sogar schon gebissen. Noch ist sie bei Sinnen
-- Wir werden zum Essen bei [Ismark](../NPCs/Ismark%20Kol%C2%ADyanovich.md) eingeladen
-- Wir haben noch 1 1/2 Tage Zeit um den Sarg zu holen
-- Im Haus von [Ismark](../NPCs/Ismark%20Kol%C2%ADyanovich.md) treffen wir zum ersten Mal [Irina](../NPCs/Irina%20Kolyanovich.md)
-- Irina redet von der [Marie](../NPCs/Marie.md)
-- Louis hat während dem Schlafen Albträume
-- Nachricht von [Ezmerelda d'Avenir](../NPCs/Ezmerelda%20d'Avenir.md) zu [Irina](../NPCs/Irina%20Kolyanovich.md)s Zustand. "Nach Van Richtens Aufzeichnungen braucht es mehrfachen Biss, beschützt sie um jeden Preis. Mir und den Martikovs gehts gut."
-- Passwort: Banana Joe
-- Wir reiten zum Sargbauer
-- Nach einer Stunde merken wir, dass im Wald Äste des [Gulthias Baum](Gulthias%20Baum.md)s sind.
-- Ich merke Fey Magie
-- Wir gehen ins Haus und Kämpfen wieder Gegen Astwesen die zum [Gulthias Baum ](Gulthias%20Baum.md)gehören
-- Ich mixe Weihwasser mit der Asche des [Gulthias Baum](Gulthias%20Baum.md)
-- Gritta schiebt als Wolf den Sarg hinaus, durch ein Loch, dass Louis mit seiner Rüstung gemacht hat
+## In der Taverne
+
+[Ismark Kol­yanovich](../NPCs/Ismark%20Kol%C2%ADyanovich.md) hat noch eine Seele, wirkt aber sehr bedrückt. Er will den toten Körper seinen [Vaters](../NPCs/Kolyan%20Indirovich.md) an den [Morgenfürst](Morgenf%C3%BCrst.md)en übergeben.
+
+Er hat [Dimitri](../NPCs/Dimitri.md) beauftragt einen Sarg zu bauen. Dieser scheint jedoch den Verstand verloren zu haben. 
+
+Er verspricht uns eine Belohnung, wenn wir ihm helfen den Sarg zu holen. Jeder von uns kriegt ein Wohnheim und 50 Gold. Ich versuche ihn auch aufzuheitern, bin aber nur mäßig erfolgreich. 
+
+Wir beschließen, dass unser Gruppenname ab jetzt [Husarenbande](../Party/Husarenbande.md) ist. 
+
+Wir zeigen [Ismark](../NPCs/Ismark%20Kol%C2%ADyanovich.md) den Brief seines Vaters, er sagt uns, dass dieser sicher  gefälscht ist. Er erzählt uns mehr darüber, dass [Strahd](../NPCs/Strahd%20von%20Zarovich.md) seine [Schwester](../NPCs/Irina%20Kolyana.md) verführen will, und sie sogar schon gebissen hat. Noch ist sie bei allerdings bei Sinnen. 
+
+## Abendessen bei Ismark
+
+[Ismark](../NPCs/Ismark%20Kol%C2%ADyanovich.md) lädt uns zu sich zum Essen ein. Wir haben noch 1 1/2 Tage Zeit um den Sarg zu holen, daher nehmen wir das Angebot an. Im Haus von [Ismark](../NPCs/Ismark%20Kol%C2%ADyanovich.md) treffen wir zum ersten Mal [Irina](../NPCs/Irina%20Kolyana.md), eine sehr schöne Frau. 
+
+Irina redet von der [Marie](../NPCs/Marie.md), evt. weiß sie mehr über den [Teleportationskreis](Teleportationskreis.md) in [Dorf Barovia](../Places/D%C3%B6rfer/Dorf%20Barovia.md).
+
+## In der Nacht
+
+Louis hat während dem Schlafen Albträume von [Morganta](../NPCs/Morganta.md). Wir müssen uns bald um sie kümmern. 
+
+Am Morgen erhalten wir eine Nachricht von [Ezmerelda d'Avenir](../NPCs/Ezmerelda%20d'Avenir.md) zu [Irina](../NPCs/Irina%20Kolyana.md)s Zustand. "Nach Van Richtens Aufzeichnungen braucht es mehrfachen Biss, beschützt sie um jeden Preis. Mir und den Martikovs gehts gut."
+
+Wir machen uns ein Passwort mit den beiden aus, damit [Irina](../NPCs/Irina%20Kolyana.md) nur uns öffnet: Banana Joe. Danach reiten wir los. 
+
+## Beim Sargbauer
+
+Wir reiten zum Sargbauer. Nach einer Stunde merken wir, dass im Wald Äste des [Gulthias Baum](Gulthias%20Baum.md)s sind. Ich bemerke auch starke Fey Magie. 
+
+Im Haus des Sargbauers werden wir von Astwesen, die zum [Gulthias Baum ](Gulthias%20Baum.md)gehören, angegriffen. Der Sargbauer scheint schon tot zu sein. 
+
+Ich mixe Weihwasser mit der Asche des [Gulthias Baum](Gulthias%20Baum.md), und kann mich somit mühelos über die Ranken bewegen. Gritta schiebt als Wolf den Sarg hinaus, durch ein Loch, das Louis mit seiner Rüstung gemacht hat. Gemeinsam machen wir mit den Kreaturen kurzen Prozess. 

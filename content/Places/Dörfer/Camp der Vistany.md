@@ -1,7 +1,24 @@
 ---
 share: true
+Leader: "[[Aregal]]"
+LeaderTitle: Anführer
+Inhabitants: "[[Vistany]]"
+Size: ~ 50 Leute
 ---
+>[!infobox] 
+>Type|Stat|
+>---|---|
+>Anführer|[Aregal](../../NPCs/Aregal.md)|
+>Haupteinwohner|[Vistany](../../NPCs/Guilds/Vistany.md)|
+>Größe|~ 50 Leute|
 
-| Type | Stat |
-| --- | --- |
-| Herrscher | [Aregal](../../NPCs/Aregal.md) |
+## Benannte Bewohner
+| Name                                         | Job      | Spezies | Zustand |
+| -------------------------------------------- | -------- | ------- | ------- |
+| [Aregal](../../NPCs/Aregal.md)                   | Anführer | Mensch  | Gesund  |
+| [Kasimir Velikov](../../NPCs/Kasimir%20Velikov.md) | Magier   | Elf     | Gesund  |
+| [Arabell](../../NPCs/Arabell.md)                 | \-       | \-      | Gesund  |
+| [Alexei](../../NPCs/Alexei.md)                   | \-       | \-      | Gesund  |
+
+
+## Infos

@@ -8,10 +8,10 @@ Wir werden von der [Gräfin Amelie von Dolchfurth](../NPCs/Gr%C3%A4fin%20Amelie%
 
 Wir betreten das Schloss und werden zu einem Bankett empfangen. Der Empfang ist sehr schön, allerdings scheint Trauer zu herrschen. Der Mann der Gräfin ist vor kurzem gestorben. Es stellt sich heraus, dass wir ihren Mann vor ein paar Tagen auf der Straße getötet haben. 
 
-Wir werden beim Essen vergiftet (Gas) und wachen in einem Kerker wieder auf. 
+Wir werden beim Essen vergiftet (mit Gas aus den Kerzen) und wachen in einem Kerker wieder auf. 
 
 ## Im Kerker
 
-Wir versuchen zu fliehen und werden von Monstern angegriffen. Am Weg retten wir [Dimitri](../NPCs/Dimitri.md) & [Oleg](Oleg.md). Außerdem kommt uns auch [Leander](Leander.md), der Dunkelelf entgegen und hilft uns. Er sucht seine Freundin [Oleana](Oleana.md), findet sie aber nicht. 
+Wir versuchen zu fliehen und werden von Monstern angegriffen. Am Weg retten wir [Dimitri](../NPCs/Dimitri.md) & [Oleg](Oleg.md). Außerdem kommt uns auch [Leander](../NPCs/Leander.md), der Dunkelelf entgegen und hilft uns. Er sucht seine Freundin [Oleana](Oleana.md), findet sie aber nicht. 
 
-Als wir aus dem Kerker geflohen sind, ratet uns [Leander](Leander.md) weiter nach [Krezk](../Places/D%C3%B6rfer/Krezk.md) zu gehen.
+Als wir aus dem Kerker geflohen sind, ratet uns [Leander](../NPCs/Leander.md) weiter nach [Krezk](../Places/D%C3%B6rfer/Krezk.md) zu gehen.
