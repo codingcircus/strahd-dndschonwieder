@@ -1,28 +1,38 @@
 ---
-Guild: Vampirjäger
-Gender: Weiblich
-Species: Mensch
-Age: Jung
-Class: Vampirjäger
-Alignment: Gut
-Job: Vampirjägerin
+guild: "[[Vistany]]"
+gender: Weiblich
+species: Mensch
+age: Jung
+class: Vampirjäger
+alignment:
+  - Gut
+job: Vampirjägerin
 share: true
+condition: Gesund
 aliases:
   - Ezmerelda
 ---
 
->[!infobox]
->##### Basic Information
->Type | Stat |
->----  | ----  |
-> Wohnort | Nomade |
+> [!infobox]
+> # Ezmerelda d'Avenir
+> ![ImagePlaceholder.png](../ImagePlaceholder.png)
+> ###### Basic Information
+> Type |  Stat |
+> ---|---|
+> Ort |  |
 > Guilde | [Vistany](./Guilds/Vistany.md) |
 > Geschlecht | Weiblich |
-> Alter | Jung |
 > Spezies | Mensch |
-> Ausrichtung | Gut |
-> Klasse | Vampirjäger |
-> Job | Vampirjägerin |
+> Job| Vampirjägerin|
+> Alter | Jung |
+> Gesundheit | Gesund |
+> ###### Rules Info
+> Type |  Stat |
+> ---|---|
+> Ausrichtung|Gut|
+> Klasse|Vampirjäger|
+
+## Infos
 
 - früher mit [Rudolf van Richten](./Rudolf%20van%20Richten.md) herumgereist, war sein Lehrling
 - sucht ihn derzeit
