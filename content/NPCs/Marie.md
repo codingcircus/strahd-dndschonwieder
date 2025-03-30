@@ -1,29 +1,38 @@
 ---
-Guild: 
-Gender: weiblich
-Species: Mensch
-Location: "[Dorf Barovia](../Places/D%C3%B6rfer/Dorf%20Barovia.md)"
-Age: 
-Class: 
-Alignment: 
-Job: 
+guild: 
+gender: weiblich
+species: Mensch
+location: "[Dorf Barovia](../Places/D%C3%B6rfer/Dorf%20Barovia.md)"
+age: 
+class: 
+alignment: 
+job: 
 aliases:
   - verückte Marie
 share: true
+condition: Gesund
 ---
 
->[!infobox]
->##### Basic Information
->Type | Stat |
->----  | ----  |
-> Wohnort | [Dorf Barovia](../Places/D%C3%B6rfer/Dorf%20Barovia.md) |
+> [!infobox]
+> # Marie
+> ![ImagePlaceholder.png](../ImagePlaceholder.png)
+> ###### Basic Information
+> Type |  Stat |
+> ---|---|
+> Ort | [Dorf Barovia](../Places/D%C3%B6rfer/Dorf%20Barovia.md) |
 > Guilde |  |
 > Geschlecht | weiblich |
-> Alter |  |
 > Spezies | Mensch |
-> Ausrichtung |  |
-> Klasse |  |
-> Job |  |
+> Job| |
+> Alter |  |
+> Gesundheit | Gesund |
+> ###### Rules Info
+> Type |  Stat |
+> ---|---|
+> Ausrichtung||
+> Klasse||
+
+## Infos
 
 
 - hat ihre Tochter [Gertruda](Gertruda.md) verloren. Vielleicht ist sie Strahd nachgelaufen
