@@ -1,25 +1,36 @@
 ---
-Guild: Party
-Gender: Männlich
-Species: Mensch
-Age: Kind
-Class: keine
-Alignment: Gut
-Job: Magierlehrling
+guild: Party
+gender: Männlich
+species: Mensch
+age: Kind
+class: keine
+alignment:
+  - Gut
+job: Magierlehrling
 share: true
+condition: Gesund
+location: "[[Tzer Fälle]]"
 ---
 
->[!infobox]
->##### Basic Information
->Type | Stat |
->----  | ----  |
-> Wohnort | [Tzer Fälle](../Places/D%C3%B6rfer/Tzer%20F%C3%A4lle.md) |
+> [!infobox]
+> # Jeska
+> ![ImagePlaceholder.png](../ImagePlaceholder.png)
+> ###### Basic Information
+> Type |  Stat |
+> ---|---|
+> Ort | [Tzer Fälle](../Places/D%C3%B6rfer/Tzer%20F%C3%A4lle.md) |
 > Guilde | Party |
 > Geschlecht | Männlich |
-> Alter | Kind |
 > Spezies | Mensch |
-> Ausrichtung | Gut |
-> Klasse | keine |
-> Job | Magierlehrling |
+> Job| Magierlehrling|
+> Alter | Kind |
+> Gesundheit | Gesund |
+> ###### Rules Info
+> Type |  Stat |
+> ---|---|
+> Ausrichtung|Gut|
+> Klasse|keine|
+
+## Infos
 
 - Ist mein Magierlehrling
