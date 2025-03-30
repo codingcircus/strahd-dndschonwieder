@@ -1,27 +1,36 @@
 ---
-Guild: 
-Gender: Männlich
-Species: 
-Location: "[[Dorf Barovia]]"
-Age: 
-Class: 
-Alignment: 
-Job: Zimmermann
+guild: 
+gender: Männlich
+species: 
+location: "[[Dorf Barovia]]"
+age: 
+class: 
+alignment: 
+job: Zimmermann
 aliases: 
 share: true
+condition: Gesund
 ---
 
->[!infobox]
->##### Basic Information
->Type | Stat |
->----  | ----  |
-> Wohnort | [Dorf Barovia](../Places/D%C3%B6rfer/Dorf%20Barovia.md) |
+> [!infobox]
+> # Dimitri
+> ![ImagePlaceholder.png](../ImagePlaceholder.png)
+> ###### Basic Information
+> Type |  Stat |
+> ---|---|
+> Ort | [Dorf Barovia](../Places/D%C3%B6rfer/Dorf%20Barovia.md) |
 > Guilde |  |
 > Geschlecht | Männlich |
-> Alter |  |
 > Spezies |  |
-> Ausrichtung |  |
-> Klasse |  |
-> Job | Zimmermann |
+> Job| Zimmermann|
+> Alter |  |
+> Gesundheit | Gesund |
+> ###### Rules Info
+> Type |  Stat |
+> ---|---|
+> Ausrichtung||
+> Klasse||
+
+## Infos
 
 - ist verrückt geworden
