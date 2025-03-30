@@ -1,3 +1,4 @@
 ---
-Datum:
+created: <% tp.date.now() %>
+share: true
 ---
