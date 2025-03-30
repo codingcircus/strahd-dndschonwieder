@@ -1,28 +1,39 @@
 ---
-Guild: keine
-Gender: Weiblich
-Species: Mensch
-Age: Alt
-Class: keine
-Alignment: Böse
-Job: Wohlhabende
+guild: "[[Wachters]]"
+gender: Weiblich
+species: Mensch
+location: "[[Vallaki]]"
+age: Alt
+class: keine
+alignment:
+  - Böse
+job: Wohlhabende
 share: true
+condition: Gesund
 aliases:
   - Fiona
   - Die Wachter
 ---
 
->[!infobox]
->##### Basic Information
->Type | Stat |
->----  | ----  |
-> Wohnort | [Vallaki](../Places/D%C3%B6rfer/Vallaki.md) |
-> Guilde | keine |
+> [!infobox]
+> # Fiona Wachter
+> ![ImagePlaceholder.png](../ImagePlaceholder.png)
+> ###### Basic Information
+> Type |  Stat |
+> ---|---|
+> Ort | [Vallaki](../Places/D%C3%B6rfer/Vallaki.md) |
+> Guilde | [[Wachters|Wachters]] |
 > Geschlecht | Weiblich |
-> Alter | Alt |
 > Spezies | Mensch |
-> Ausrichtung | Böse |
-> Klasse | keine |
-> Job | Wohlhabende |
+> Job| Wohlhabende|
+> Alter | Alt |
+> Gesundheit | Gesund |
+> ###### Rules Info
+> Type |  Stat |
+> ---|---|
+> Ausrichtung|Böse|
+> Klasse|keine|
+
+## Infos
 
 - Ihre Familie unterstützt [Strahd](./Strahd%20von%20Zarovich.md)
