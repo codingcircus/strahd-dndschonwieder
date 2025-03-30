@@ -2,5 +2,6 @@
 share: true
 ---
 
-- hier wohnt ein verrückter Magier
-- Er fischt mit Blitzen nach Fischen
+## Infos
+
+- Seit dem Tod von [Bluto](../../NPCs/Bluto.md)s Frau sind hier keine Fische mehr
