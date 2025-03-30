@@ -1,26 +1,35 @@
 ---
-Guild: 
-Gender: 
-Species: 
-Location: 
-Age: 
-Class: 
-Alignment: 
-Job: 
+guild: 
+gender: 
+species: 
+location: "[[Vallaki]]"
+age: 
+class: 
+alignment: 
+job: 
 aliases:
   - Stefania
 share: true
+condition: Gesund
 ---
 
->[!infobox]
->##### Basic Information
->Type | Stat |
->----  | ----  |
-> Wohnort |  |
+> [!infobox]
+> # Stefania Martikov
+> ![ImagePlaceholder.png](../ImagePlaceholder.png)
+> ###### Basic Information
+> Type |  Stat |
+> ---|---|
+> Ort | [Vallaki](../Places/D%C3%B6rfer/Vallaki.md) |
 > Guilde |  |
 > Geschlecht |  |
-> Alter |  |
 > Spezies |  |
-> Ausrichtung |  |
-> Klasse |  |
-> Job |  |
+> Job| |
+> Alter |  |
+> Gesundheit | Gesund |
+> ###### Rules Info
+> Type |  Stat |
+> ---|---|
+> Ausrichtung||
+> Klasse||
+
+## Infos
