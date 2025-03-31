@@ -10,4 +10,4 @@ Den Baum selbst können wir nicht zerstören. Laut [Ezmerelda](../NPCs/Ezmerelda
 
 ## Etwas Später
 
-[Ezmerelda](../NPCs/Ezmerelda%20d'Avenir.md) legt uns [Tarot Karten](Tarot%20Karten%20von%20Ezmerelda.md), die uns Hinweise auf unser Schicksal hier geben. [Johnny](../Party/Johnny%20Rosenthaler.md) gibt [ihr](../NPCs/Ezmerelda%20d'Avenir.md) einen unserer [Sending Stone](Sending%20Stone.md)s.
+[Ezmerelda](../NPCs/Ezmerelda%20d'Avenir.md) legt uns [Tarot Karten](../Quests/Tarot%20Karten%20von%20Ezmerelda.md), die uns Hinweise auf unser Schicksal hier geben. [Johnny](../Party/Johnny%20Rosenthaler.md) gibt [ihr](../NPCs/Ezmerelda%20d'Avenir.md) einen unserer [Sending Stone](Sending%20Stone.md)s.

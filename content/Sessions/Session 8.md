@@ -2,7 +2,7 @@
 created: 2023-06-28
 share: true
 ---
-[Balthasar](../NPCs/Balthasar%20Buddelsam.md) gibt uns Notizen über die [Tarot Karten](Tarot%20Karten%20von%20Ezmerelda.md) mit.
+[Balthasar](../NPCs/Balthasar%20Buddelsam.md) gibt uns Notizen über die [Tarot Karten](../Quests/Tarot%20Karten%20von%20Ezmerelda.md) mit.
 
 ## Angriff der Hexen
 
@@ -18,7 +18,7 @@ Wir geben das [Juwel](Die%20Juwelen%20des%20Weinguts.md) zurück, die Martikovs 
 
 [Stefania](../NPCs/Stefania%20Martikov.md) sagt, dass es zu gefährlich wird, sie will mit ihrer Familie nach [Vallaki](../Places/D%C3%B6rfer/Vallaki.md). Wir beschließen sie zu begleiten. 
 
-Am Abend erzählen wir der Familie noch von der [Tarot Prophezeiung](Tarot%20Karten%20von%20Ezmerelda.md). Sie geben sich als die [Hüter der Feder](../NPCs/Guilds/H%C3%BCter%20der%20Feder.md) zu erkennen und erzählen uns, dass sie mal [ein magisches Amulett](ein%20magisches%20Amulett.md) hatten. Sie haben außerdem Vermutungen zur [Baba](../NPCs/Baba%20Lysaga.md), eine Hexe aus dem [Berez Sumpf](../Places/Natur/Berez%20Sumpf.md).
+Am Abend erzählen wir der Familie noch von der [Tarot Prophezeiung](../Quests/Tarot%20Karten%20von%20Ezmerelda.md). Sie geben sich als die [Hüter der Feder](../NPCs/Guilds/H%C3%BCter%20der%20Feder.md) zu erkennen und erzählen uns, dass sie mal [ein magisches Amulett](ein%20magisches%20Amulett.md) hatten. Sie haben außerdem Vermutungen zur [Baba](../NPCs/Baba%20Lysaga.md), eine Hexe aus dem [Berez Sumpf](../Places/Natur/Berez%20Sumpf.md).
 
 [Allentato](../Party/Allentato.md) sperrt [Gritta](../Party/Gritta.md) und [Adrian](../NPCs/Adrian%20Martikov.md) in einen Raum für die Nacht.
 

@@ -12,7 +12,7 @@ Währenddessen machen wir beim Dorffest mit, Werwolf-Köpfe werden auf Speeren a
 
 Wir treffen kleine Kinder, ich lenke sie mit [Pingu](Pingu.md) ab. Ihre Eltern sind drogensüchtig (von [Pasteten](Pasteten.md)).
 
-Der [Bürgermeister](../NPCs/Baron%20Vargas%20Vallakovich.md) kommt auch zum Fest, dann hören wir lautes Heulen, es kommen wohl [Werwölfe](Werw%C3%B6lfe.md) zur Stadt. 
+Der [Bürgermeister](../NPCs/Baron%20Vargas%20Vallakovich.md) kommt auch zum Fest, dann hören wir lautes Heulen, es kommen wohl [Werwölfe](../NPCs/Guilds/Werw%C3%B6lfe.md) zur Stadt. 
 
 [Allentato](../Party/Allentato.md) versteckt sich länger im Bag of Holding. Dort kämpft er gegen einen [Beutelmann](Beutelmann.md).
 

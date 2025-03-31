@@ -20,7 +20,7 @@ share: true
 > Type |  Stat |
 > ---|---|
 > Ort | [Vallaki](../Places/D%C3%B6rfer/Vallaki.md) |
-> Guilde | [[Wachters|Wachters]] |
+> Guilde | [Wachters](./Guilds/Wachters.md) |
 > Geschlecht | männlich |
 > Spezies |  |
 > Job| |

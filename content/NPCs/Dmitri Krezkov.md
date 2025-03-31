@@ -38,4 +38,4 @@ location: "[[Krezk]]"
 - ist ein Werwolf
 - hat keine Nachfahren, der letzte seiner Blutlinie
 - Will Hilfe vom [Abt](./Abt.md) um seinen Sohn wiederzubeleben
-- Wurde von [Werwölfe](Werw%C3%B6lfe.md)n gebissen
+- Wurde von [Werwölfe](./Guilds/Werw%C3%B6lfe.md)n gebissen

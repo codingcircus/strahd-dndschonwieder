@@ -18,7 +18,7 @@ location: "[[Weiland Hügel]]"
 >Type | Stat |
 >----  | ----  |
 > Wohnort |  |
-> Guilde | [[Druiden|Druiden]] |
+> Guilde | [Druiden](./Guilds/Druiden.md) |
 > Geschlecht |  |
 > Alter |  |
 > Spezies |  |

@@ -9,6 +9,6 @@ Wir reden mit [Ezmerelda](../NPCs/Ezmerelda%20d'Avenir.md). Sie erzählt uns, da
 
 ## Am [Weiland Hügel](Weiland%20H%C3%BCgel.md)
 
-Wir schleichen uns den Hügel hinauf, werden aber von Untoten und [Druiden](Druiden.md) überrascht. Es kommt zum großen Kampf gegen den [Wintersplinter](../NPCs/Wintersplinter.md). [Gritta](../Party/Gritta.md) zerbricht ihren [Gulthiasstab](Gulthiasstab.md) und besiegt somit den [Wintersplinter](../NPCs/Wintersplinter.md)
+Wir schleichen uns den Hügel hinauf, werden aber von Untoten und [Druiden](../NPCs/Guilds/Druiden.md) überrascht. Es kommt zum großen Kampf gegen den [Wintersplinter](../NPCs/Wintersplinter.md). [Gritta](../Party/Gritta.md) zerbricht ihren [Gulthiasstab](Gulthiasstab.md) und besiegt somit den [Wintersplinter](../NPCs/Wintersplinter.md)
 
 Wir finden ein Juwel und wollen es zum [Weingut](../Places/D%C3%B6rfer/Der%20Weinmagier.md) zurückbringen.
