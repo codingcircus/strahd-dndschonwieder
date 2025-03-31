@@ -1,6 +1,6 @@
 ---
 guild: "[[Vampirjäger]]"
-gender: Männlich
+gender: männlich
 species: Mensch
 age: Alt
 class: keine
@@ -21,7 +21,7 @@ aliases:
 > ---|---|
 > Ort |  |
 > Guilde | [Vampirjäger](./Guilds/Vampirj%C3%A4ger.md) |
-> Geschlecht | Männlich |
+> Geschlecht | männlich |
 > Spezies | Mensch |
 > Job| Vampirjäger|
 > Alter | Alt |
