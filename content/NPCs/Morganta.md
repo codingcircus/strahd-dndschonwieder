@@ -1,6 +1,6 @@
 ---
 guild: "[[Hexen]]"
-gender: Weiblich
+gender: weiblich
 species: Mensch
 age: Alt
 class: Magier
@@ -20,7 +20,7 @@ location: "[[Knochenmühle]]"
 > ---|---|
 > Ort | [[Knochenmühle|Knochenmühle]] |
 > Guilde | [Hexen](./Guilds/Hexen.md) |
-> Geschlecht | Weiblich |
+> Geschlecht | weiblich |
 > Spezies | Mensch |
 > Job| Hexe / Pastetenverkäuferin|
 > Alter | Alt |

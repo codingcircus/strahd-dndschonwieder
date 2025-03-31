@@ -1,6 +1,6 @@
 ---
 guild: "[[Hexen]]"
-gender: Weiblich
+gender: weiblich
 species: Hexe
 age: Alt
 class: Magier
@@ -19,7 +19,7 @@ aliases:
 > ---|---|
 > Ort |  |
 > Guilde | [Hexen](./Guilds/Hexen.md) |
-> Geschlecht | Weiblich |
+> Geschlecht | weiblich |
 > Spezies | Hexe |
 > Job| |
 > Alter | Alt |

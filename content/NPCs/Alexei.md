@@ -1,28 +1,28 @@
 ---
-guild: 
-gender: männlich
+guild: "[[Vistany]]"
+gender: 
 species: 
-location: "[[Dorf Barovia]]"
+location: "[[Camp der Vistany]]"
 age: 
 class: 
 alignment: 
-job: Zimmermann
+job: 
 aliases: 
-share: true
 condition: Gesund
+share: true
 ---
 
 > [!infobox]
-> # Dimitri
+> # Alexei
 > ![ImagePlaceholder.png](../ImagePlaceholder.png)
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
-> Ort | [Dorf Barovia](../Places/D%C3%B6rfer/Dorf%20Barovia.md) |
-> Guilde |  |
-> Geschlecht | männlich |
+> Ort | [Camp der Vistany](../Places/D%C3%B6rfer/Camp%20der%20Vistany.md) |
+> Guilde | [Vistany](./Guilds/Vistany.md) |
+> Geschlecht |  |
 > Spezies |  |
-> Job| Zimmermann|
+> Job| |
 > Alter |  |
 > Gesundheit | Gesund |
 > ###### Rules Info
@@ -33,4 +33,4 @@ condition: Gesund
 
 ## Infos
 
-- ist verrückt geworden
+- wurde ausgepeitscht, weil er [Arabell](./Arabell.md) verloren hat.

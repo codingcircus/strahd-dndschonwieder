@@ -1,6 +1,6 @@
 ---
 guild: "[[Vistany]]"
-gender: Weiblich
+gender: weiblich
 species: Mensch
 age: Jung
 class: Vampirjäger
@@ -21,7 +21,7 @@ aliases:
 > ---|---|
 > Ort |  |
 > Guilde | [Vistany](./Guilds/Vistany.md) |
-> Geschlecht | Weiblich |
+> Geschlecht | weiblich |
 > Spezies | Mensch |
 > Job| Vampirjägerin|
 > Alter | Jung |

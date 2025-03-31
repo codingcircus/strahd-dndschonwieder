@@ -1,6 +1,6 @@
 ---
 guild: keine
-gender: Weiblich
+gender: weiblich
 species: Mensch
 age: Jung
 class: keine
@@ -17,9 +17,9 @@ location: "[[Dolchfurth]]"
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
-> Ort | [[Dolchfurth|Dolchfurth]] |
+> Ort | [Dolchfurth](../Places/D%C3%B6rfer/Dolchfurth.md) |
 > Guilde | keine |
-> Geschlecht | Weiblich |
+> Geschlecht | weiblich |
 > Spezies | Mensch |
 > Job| Wohlhabend|
 > Alter | Jung |

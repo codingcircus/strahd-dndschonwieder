@@ -2,8 +2,8 @@
 guild: 
 gender: weiblich
 species: 
-location: 
-age: 
+location: "[[Berez]]"
+age: "20"
 class: 
 alignment: 
 job: 
@@ -13,17 +13,17 @@ share: true
 ---
 
 > [!infobox]
-> # Tatjana
+> # Marina
 > ![ImagePlaceholder.png](../ImagePlaceholder.png)
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
-> Ort |  |
+> Ort | [Berez](../Places/D%C3%B6rfer/Berez.md) |
 > Guilde |  |
 > Geschlecht | weiblich |
 > Spezies |  |
 > Job| |
-> Alter |  |
+> Alter | 20 |
 > Gesundheit | Tod |
 > ###### Rules Info
 > Type |  Stat |
@@ -33,4 +33,6 @@ share: true
 
 ## Infos
 
-- Erste Frau in die [Strahd](Strahd.md) verliebt war.
+- hat ausgesehen wie [Tatjana](./Tatjana.md)
+- [Strahd](./Strahd%20von%20Zarovich.md) hat Blut von ihr getrunken. 
+- Wurde von ihren Dorfbewohnern getötet.

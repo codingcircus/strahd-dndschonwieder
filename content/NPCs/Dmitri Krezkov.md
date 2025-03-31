@@ -1,7 +1,7 @@
 ---
 job: Bürgermeister
 guild: Keine
-gender: Männlich
+gender: männlich
 species: Mensch
 age: Mittelalt
 class: Normal
@@ -21,7 +21,7 @@ location: "[[Krezk]]"
 > ---|---|
 > Ort | [Krezk](../Places/D%C3%B6rfer/Krezk.md) |
 > Guilde | Keine |
-> Geschlecht | Männlich |
+> Geschlecht | männlich |
 > Spezies | Mensch |
 > Job| Bürgermeister|
 > Alter | Mittelalt |

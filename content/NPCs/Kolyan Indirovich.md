@@ -1,6 +1,6 @@
 ---
 guild: keine
-gender: Männlich
+gender: männlich
 species: Mensch
 age: Alt
 class: Normal
@@ -22,7 +22,7 @@ location: "[[Dorf Barovia]]"
 > ---|---|
 > Ort | [Dorf Barovia](../Places/D%C3%B6rfer/Dorf%20Barovia.md) |
 > Guilde | keine |
-> Geschlecht | Männlich |
+> Geschlecht | männlich |
 > Spezies | Mensch |
 > Job| Bürgermeister|
 > Alter | Alt |

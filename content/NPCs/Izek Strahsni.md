@@ -1,6 +1,6 @@
 ---
 guild: keine
-gender: Männlich
+gender: männlich
 species: Mensch
 age: Mittelalt
 location: "[[Vallaki]]"
@@ -25,7 +25,7 @@ aliases:
 > ---|---|
 > Ort | [Vallaki](../Places/D%C3%B6rfer/Vallaki.md) |
 > Guilde | keine |
-> Geschlecht | Männlich |
+> Geschlecht | männlich |
 > Spezies | Mensch |
 > Job| Rechte Hand des Bürgermeisters|
 > Alter | Mittelalt |
