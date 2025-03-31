@@ -1,6 +1,6 @@
 ---
 guild: Party
-gender: Männlich
+gender: männlich
 species: Mensch
 age: Kind
 class: keine
@@ -20,7 +20,7 @@ location: "[[Tzer Fälle]]"
 > ---|---|
 > Ort | [Tzer Fälle](../Places/D%C3%B6rfer/Tzer%20F%C3%A4lle.md) |
 > Guilde | Party |
-> Geschlecht | Männlich |
+> Geschlecht | männlich |
 > Spezies | Mensch |
 > Job| Magierlehrling|
 > Alter | Kind |
