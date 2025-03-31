@@ -16,11 +16,11 @@ Wir sehen aber auch einen alten Bekannten: [Leander](../NPCs/Leander.md). Er erz
 
 Ich rede mit den Leuten, die am reichsten aussehen. [Karl Wachter](../NPCs/Karl%20Wachter.md) und [Nikolaj](../NPCs/Nikolaj%20Wachter.md). Wir versuchen uns zum Teekränzchen bei [ihrer Mutter](../NPCs/Fiona%20Wachter.md) einzuladen. 
 
-Später treffen wir [Rictavio](../NPCs/Rudolf%20van%20Richten.md) wieder, der sich als [Van Richten](../NPCs/Rudolf%20van%20Richten.md) zu erkennen gibt. Er will uns gegen [Strahd](../NPCs/Strahd%20von%20Zarovich.md) helfen. Louis gibt an, Van Richten durchschaut ihn aber.
+Später treffen wir [Rictavio](../NPCs/Rudolf%20van%20Richten.md) wieder, der sich als [Van Richten](../NPCs/Rudolf%20van%20Richten.md) zu erkennen gibt. Er will uns gegen [Strahd](../NPCs/Strahd%20von%20Zarovich.md) helfen. [Louie](../Party/Louie%20Langhammer.md) gibt an, Van Richten durchschaut ihn aber.
 
 ## Zur Schmiedin
 
-Wir gehen zum Elendstor, weil dort eine Schmiedin sein soll, die [Louis](../Party/Louis%20Langhammer.md) besuchen will. Wir kommen auch am [Blinsky - Spielwaren](../Places/Geb%C3%A4ude/Blinsky%20-%20Spielwaren.md)geschäft vorbei. Am Weg wird [Allentato](../Party/Allentato.md) außerdem mit einem Messer überfallen.  
+Wir gehen zum Elendstor, weil dort eine Schmiedin sein soll, die [Louie](../Party/Louie%20Langhammer.md) besuchen will. Wir kommen auch am [Blinsky - Spielwaren](../Places/Geb%C3%A4ude/Blinsky%20-%20Spielwaren.md)geschäft vorbei. Am Weg wird [Allentato](../Party/Allentato.md) außerdem mit einem Messer überfallen.  
 
 Wir kommen zur Schmiede von [Mirabel](../NPCs/Mirabel.md). Die Besitzerin hat zwei Persönlichkeiten, eine davon ist vielleicht [Markovia](Markovia.md) selbst. 
 
