@@ -7,9 +7,9 @@ share: true
 [Henrik](../NPCs/Henrik%20van%20der%20Voort.md) erzählt uns, dass er von einem bösen Mann namens [Vasily van Holz](../NPCs/Strahd%20von%20Zarovich.md) dazu gezwungen wurde, die [Knochen von St. Andral](Knochen%20von%20St.%20Andral.md) zu stehlen. Er überlässt uns sein Haus. 
 Wir sagen ihm, dass er in der [St. Andrals Kirche](../Places/Geb%C3%A4ude/St.%20Andrals%20Kirche.md) Unterschlupf suchen kann. Wir bringen die [Knochen von St. Andral](Knochen%20von%20St.%20Andral.md) zurück zu [Lucien](../NPCs/Lucien%20Petrovich.md). 
 
-[Louis Langhammer](../Party/Louis%20Langhammer.md) und ich gehen zu [Mirabel](../NPCs/Mirabel.md). Sie ist sehr krank, wir versuchen sie in die Kirche zu bringen. In der Kirche stirbt sie leider jedoch. [Markovia](Markovia.md) hat noch eine Nachricht für uns. Wir sollen zur  [Festung Argynvostholt](../Places/D%C3%B6rfer/Festung%20Argynvostholt.md) aufbrechen. Die [Paladine](../NPCs/Guilds/Paladine.md) dort sollten die Macht haben, uns gegen [Strahd](../NPCs/Strahd%20von%20Zarovich.md) zu helfen. 
+[Louie Langhammer](../Party/Louie%20Langhammer.md) und ich gehen zu [Mirabel](../NPCs/Mirabel.md). Sie ist sehr krank, wir versuchen sie in die Kirche zu bringen. In der Kirche stirbt sie leider jedoch. [Markovia](Markovia.md) hat noch eine Nachricht für uns. Wir sollen zur  [Festung Argynvostholt](../Places/D%C3%B6rfer/Festung%20Argynvostholt.md) aufbrechen. Die [Paladine](../NPCs/Guilds/Paladine.md) dort sollten die Macht haben, uns gegen [Strahd](../NPCs/Strahd%20von%20Zarovich.md) zu helfen. 
 
-[Louis](../Party/Louis%20Langhammer.md) weint um [Mirabel](../NPCs/Mirabel.md). 
+[Louie](../Party/Louie%20Langhammer.md) weint um [Mirabel](../NPCs/Mirabel.md). 
 
 ## Gottesdienst
 

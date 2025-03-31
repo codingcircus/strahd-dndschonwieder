@@ -20,4 +20,4 @@ Die Martikovs erzählen uns davon, dass früher 3 Juwelen dem Weingut einen magi
 
 Wir beschließen zum [Weiland Hügel](Weiland%20H%C3%BCgel.md) aufzubrechen, um eines der Juwelen zu holen.
 
-Es beginnt zu donnern und [Nebel](T%C3%B6dlicher%20Nebel.md) zieht auf. [Louis](../Party/Louis%20Langhammer.md) sieht im Süden ein [Schloss](../Places/Geb%C3%A4ude/Schloss%20Ravenloft.md). Wir müssen warten, bis sich der Nebel verzieht. 
+Es beginnt zu donnern und [Nebel](T%C3%B6dlicher%20Nebel.md) zieht auf. [Louie](../Party/Louie%20Langhammer.md) sieht im Süden ein [Schloss](../Places/Geb%C3%A4ude/Schloss%20Ravenloft.md). Wir müssen warten, bis sich der Nebel verzieht. 
