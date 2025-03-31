@@ -37,4 +37,4 @@ aliases:
 - früher mit [Rudolf van Richten](./Rudolf%20van%20Richten.md) herumgereist, war sein Lehrling
 - sucht ihn derzeit
 - hat nur 1 Bein
-- hat uns schonmal Tarot gelegt: [Tarot Karten von Ezmerelda](Tarot%20Karten%20von%20Ezmerelda.md)
+- hat uns schonmal Tarot gelegt: [Tarot Karten von Ezmerelda](../Quests/Tarot%20Karten%20von%20Ezmerelda.md)
