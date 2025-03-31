@@ -6,13 +6,13 @@ share: true
 
 Wir lernen [Davian Martikov](../NPCs/Davian%20Martikov.md) und seine Familie kennen. Es handelt sich um [Werraben](Werraben.md).
 
-Der ganze Weinberg ist verdorrt und wird von [Druiden](Druiden.md) besetzt.
+Der ganze Weinberg ist verdorrt und wird von [Druiden](../NPCs/Guilds/Druiden.md) besetzt.
 
 ## Kampf gegen die Druiden
 
-Das Weingut wird von [Druiden](Druiden.md) angegriffen, die sich fast nicht mehr menschlich artikulieren können. Wir besiegen sie und ihre Zweigmonster nach einem Kampf. 
+Das Weingut wird von [Druiden](../NPCs/Guilds/Druiden.md) angegriffen, die sich fast nicht mehr menschlich artikulieren können. Wir besiegen sie und ihre Zweigmonster nach einem Kampf. 
 
-Gritta übernimmt den [Gulthiasstab](Gulthiasstab.md) vom Anführer der [Druiden](Druiden.md). Bevor sie verschwinden warnen sie uns noch vor dem [Wintersplinter](../NPCs/Wintersplinter.md), der bald kommen wird.
+Gritta übernimmt den [Gulthiasstab](Gulthiasstab.md) vom Anführer der [Druiden](../NPCs/Guilds/Druiden.md). Bevor sie verschwinden warnen sie uns noch vor dem [Wintersplinter](../NPCs/Wintersplinter.md), der bald kommen wird.
 
 ## Ausklang des Kampfes
 
