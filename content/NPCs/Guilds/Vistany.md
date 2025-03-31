@@ -1,6 +1,5 @@
 ---
 share: true
-condition: Gesund
 ---
 
 ## Mitglieder
