@@ -2,11 +2,10 @@
 @use "./themes";
 
 // put your custom CSS here!
-
 .callout {
   &[data-callout="infobox"] {
     float: right;
     margin-left: 1rem;
-    max-width: 27rem;
+    max-width: 16.875rem;
   }
 }
