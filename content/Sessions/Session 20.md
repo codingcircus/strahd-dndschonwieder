@@ -14,7 +14,7 @@ Wir bekommen Pferde der Vistany von [Aregal](../NPCs/Aregal.md), müssen aber ve
 
 ## Am Weg zur [Knochenmühle](Knochenm%C3%BChle.md)
 
-Nach 1/2 Tag sehen wir auf dem Weg [Jeska](../NPCs/Jeska.md) und [die alte Frau](../NPCs/Morganta.md), die uns [Pasteten](Pasteten.md) gegeben hat. Sie will unsere Schatten für Jeska. Wir schlagen diesen Tausch aus, als Alternative würde sie auch unsere Augen nehmen. Nachdem sie schlecht sieht, trickst [Louis](../Party/Louis%20Langhammer.md) sie aus und gibt ihr Murmeln, die wie Augen bemalt sind. 
+Nach 1/2 Tag sehen wir auf dem Weg [Jeska](../NPCs/Jeska.md) und [die alte Frau](../NPCs/Morganta.md), die uns [Pasteten](Pasteten.md) gegeben hat. Sie will unsere Schatten für Jeska. Wir schlagen diesen Tausch aus, als Alternative würde sie auch unsere Augen nehmen. Nachdem sie schlecht sieht, trickst [Louie](../Party/Louie%20Langhammer.md) sie aus und gibt ihr Murmeln, die wie Augen bemalt sind. 
 
 Sie durchschaut unseren Trick zu spät und verflucht uns. [Jeska](../NPCs/Jeska.md) können wir endlich mitnehmen.
 
