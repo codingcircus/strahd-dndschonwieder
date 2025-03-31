@@ -22,7 +22,7 @@ Irina redet von der [Marie](../NPCs/Marie.md), evt. weiß sie mehr über den [Te
 
 ## In der Nacht
 
-Louis hat während dem Schlafen Albträume von [Morganta](../NPCs/Morganta.md). Wir müssen uns bald um sie kümmern. 
+[Louie](../Party/Louie%20Langhammer.md) hat während dem Schlafen Albträume von [Morganta](../NPCs/Morganta.md). Wir müssen uns bald um sie kümmern. 
 
 Am Morgen erhalten wir eine Nachricht von [Ezmerelda d'Avenir](../NPCs/Ezmerelda%20d'Avenir.md) zu [Irina](../NPCs/Irina%20Kolyana.md)s Zustand. "Nach Van Richtens Aufzeichnungen braucht es mehrfachen Biss, beschützt sie um jeden Preis. Mir und den Martikovs gehts gut."
 
@@ -34,4 +34,4 @@ Wir reiten zum Sargbauer. Nach einer Stunde merken wir, dass im Wald Äste des [
 
 Im Haus des Sargbauers werden wir von Astwesen, die zum [Gulthias Baum ](Gulthias%20Baum.md)gehören, angegriffen. Der Sargbauer scheint schon tot zu sein. 
 
-Ich mixe Weihwasser mit der Asche des [Gulthias Baum](Gulthias%20Baum.md), und kann mich somit mühelos über die Ranken bewegen. Gritta schiebt als Wolf den Sarg hinaus, durch ein Loch, das Louis mit seiner Rüstung gemacht hat. Gemeinsam machen wir mit den Kreaturen kurzen Prozess. 
+Ich mixe Weihwasser mit der Asche des [Gulthias Baum](Gulthias%20Baum.md), und kann mich somit mühelos über die Ranken bewegen. Gritta schiebt als Wolf den Sarg hinaus, durch ein Loch, das [Louie](../Party/Louie%20Langhammer.md) mit seiner Rüstung gemacht hat. Gemeinsam machen wir mit den Kreaturen kurzen Prozess. 
