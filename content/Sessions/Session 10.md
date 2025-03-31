@@ -4,7 +4,7 @@ share: true
 ---
 ## Das Dorffest
 
-[Louis Langhammer](../Party/Louis%20Langhammer.md) geht nochmal zu [Mirabel](../NPCs/Mirabel.md), um bei seiner Rüstung mitzuhelfen. 
+[Louie Langhammer](../Party/Louie%20Langhammer.md) geht nochmal zu [Mirabel](../NPCs/Mirabel.md), um bei seiner Rüstung mitzuhelfen. 
 
 Währenddessen machen wir beim Dorffest mit, Werwolf-Köpfe werden auf Speeren aufgespießt. Überall sind verwelkte Blumen, Menschen stehen am Pranger. Wir sehen Bogenverkäufer, eine alte Frau, die Gebäck verkauft und auch den [Spielzeugmacher](../NPCs/Gadof%20Blinsky.md).
 
