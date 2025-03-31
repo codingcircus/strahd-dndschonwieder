@@ -1,6 +1,6 @@
 ---
 guild: "[[Wachters]]"
-gender: Weiblich
+gender: weiblich
 species: Mensch
 location: "[[Vallaki]]"
 age: Alt
@@ -23,7 +23,7 @@ aliases:
 > ---|---|
 > Ort | [Vallaki](../Places/D%C3%B6rfer/Vallaki.md) |
 > Guilde | [[Wachters|Wachters]] |
-> Geschlecht | Weiblich |
+> Geschlecht | weiblich |
 > Spezies | Mensch |
 > Job| Wohlhabende|
 > Alter | Alt |
