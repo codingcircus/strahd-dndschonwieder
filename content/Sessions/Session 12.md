@@ -6,7 +6,7 @@ share: true
 
 [Allentato](../Party/Allentato.md) wartet im Keller, dort fühlt er andere Skelette. 
 
-[Johnny Rosenthaler](../Party/Johnny%20Rosenthaler.md) und [Louis Langhammer](../Party/Louis%20Langhammer.md) geben sich als unsere Diener aus und warten im Personalbereich. Sie freunden sich mit ein paar Bediensteten an und schleichen sich durchs Haus. In einem Zimmer ist eine junge Frau, [Natasia Wachter](Natasia%20Wachter.md), die sich wie eine Katze benimmt. Einer der Diener erzählt außerdem, dass [Diana Wachter](Diana%20Wachter.md) das Haus nach einem Streit mit [Fiona](../NPCs/Fiona%20Wachter.md) verlassen hat. 
+[Johnny Rosenthaler](../Party/Johnny%20Rosenthaler.md) und [Louie Langhammer](../Party/Louie%20Langhammer.md) geben sich als unsere Diener aus und warten im Personalbereich. Sie freunden sich mit ein paar Bediensteten an und schleichen sich durchs Haus. In einem Zimmer ist eine junge Frau, [Natasia Wachter](Natasia%20Wachter.md), die sich wie eine Katze benimmt. Einer der Diener erzählt außerdem, dass [Diana Wachter](Diana%20Wachter.md) das Haus nach einem Streit mit [Fiona](../NPCs/Fiona%20Wachter.md) verlassen hat. 
 
 Das [Amulett](ein%20magisches%20Amulett.md), das wir suchen, ist wohl ebenfalls hier. 
 
