@@ -1,6 +1,6 @@
 ---
 guild: 
-gender: Männlich
+gender: männlich
 species: 
 location: "[[Dorf Barovia]]"
 age: 
@@ -20,7 +20,7 @@ condition: Gesund
 > ---|---|
 > Ort | [Dorf Barovia](../Places/D%C3%B6rfer/Dorf%20Barovia.md) |
 > Guilde |  |
-> Geschlecht | Männlich |
+> Geschlecht | männlich |
 > Spezies |  |
 > Job| Zimmermann|
 > Alter |  |
