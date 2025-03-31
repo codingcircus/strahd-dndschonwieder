@@ -38,7 +38,7 @@ aliases:
 
 ## Infos
 
-- Er und seine Schwester [Jasmin](Jasmin.md) wurden beim Angeln von [Werwölfe](Werw%C3%B6lfe.md)n angegriffen. 
+- Er und seine Schwester [Jasmin](Jasmin.md) wurden beim Angeln von [Werwölfe](./Guilds/Werw%C3%B6lfe.md)n angegriffen. 
 - Werwölfe haben seinen Arm gefressen
 - [Seine Schwester](Jasmin.md) ist verschwunden
 - Lebte im Waisenhaus, wurde immer gehänselt. Eines Nachts wuchs sein Arm nach, in der gleichen Nacht starben alle anderen im Waisenhaus. Seitdem lebt er bei [Bürgermeister von Vallaki](./Baron%20Vargas%20Vallakovich.md)
