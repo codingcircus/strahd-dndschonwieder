@@ -1,6 +1,6 @@
 ---
 guild: keine
-gender: Männlich
+gender: männlich
 species: Mensch
 age: Jung
 class: keine
@@ -19,7 +19,7 @@ condition: Gesund
 > ---|---|
 > Ort | [Dorf Barovia](../Places/D%C3%B6rfer/Dorf%20Barovia.md) |
 > Guilde | keine |
-> Geschlecht | Männlich |
+> Geschlecht | männlich |
 > Spezies | Mensch |
 > Job| Händler|
 > Alter | Jung |
