@@ -13,4 +13,4 @@ Als die [Husarenbande](../Party/Husarenbande.md) hinausgeht, sieht sie, dass [Er
 Die Party geht zum Haus von [Henrik van der Voort](../NPCs/Henrik%20van%20der%20Voort.md). Am Dachboden greifen 
 3 mächtige Vampire an, ein Zwerg, eine Elfin und ein Priester mit Medaillon.
 
-Sie besiegen die [Husarenbande](../Party/Husarenbande.md) fast, im entscheidenden Moment leuchtet jedoch die Axt von [Louis](../Party/Louis%20Langhammer.md) mit der Macht von [Markovia](Markovia.md) auf und er rettet den Tag.
+Sie besiegen die [Husarenbande](../Party/Husarenbande.md) fast, im entscheidenden Moment leuchtet jedoch die Axt von [Louie](../Party/Louie%20Langhammer.md) mit der Macht von [Markovia](Markovia.md) auf und er rettet den Tag.
