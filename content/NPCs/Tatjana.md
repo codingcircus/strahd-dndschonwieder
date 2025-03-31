@@ -1,6 +1,6 @@
 ---
 guild: 
-gender: Weiblich
+gender: weiblich
 species: 
 location: 
 age: 
@@ -20,7 +20,7 @@ share: true
 > ---|---|
 > Ort |  |
 > Guilde |  |
-> Geschlecht | Weiblich |
+> Geschlecht | weiblich |
 > Spezies |  |
 > Job| |
 > Alter |  |
