@@ -1,6 +1,6 @@
 ---
 guild: keine
-gender: Weiblich
+gender: weiblich
 location: "[[Friedhof Krezk]]"
 species: Geist
 age: Jung
@@ -19,7 +19,7 @@ condition: Gesund
 > ---|---|
 > Ort | [[Friedhof Krezk|Friedhof Krezk]] |
 > Guilde | keine |
-> Geschlecht | Weiblich |
+> Geschlecht | weiblich |
 > Spezies | Geist |
 > Job| keiner|
 > Alter | Jung |
