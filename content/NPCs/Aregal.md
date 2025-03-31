@@ -2,7 +2,7 @@
 share: true
 condition: Gesund
 guild: "[[Vistany]]"
-gender: Männlich
+gender: männlich
 species: Mensch
 age: Mittelalt
 class: 
@@ -20,7 +20,7 @@ location: "[[Camp der Vistany]]"
 > ---|---|
 > Ort | [Camp der Vistany](../Places/D%C3%B6rfer/Camp%20der%20Vistany.md) |
 > Guilde | [Vistany](./Guilds/Vistany.md) |
-> Geschlecht | Männlich |
+> Geschlecht | männlich |
 > Spezies | Mensch |
 > Job| Anführer|
 > Alter | Mittelalt |

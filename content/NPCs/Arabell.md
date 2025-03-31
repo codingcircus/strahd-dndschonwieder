@@ -1,29 +1,29 @@
 ---
-guild: 
-gender: männlich
+guild: "[[Vistany]]"
+gender: 
 species: 
-location: "[[Dorf Barovia]]"
-age: 
+location: "[[Camp der Vistany]]"
+age: Kind
 class: 
 alignment: 
-job: Zimmermann
+job: 
 aliases: 
-share: true
 condition: Gesund
+share: true
 ---
 
 > [!infobox]
-> # Dimitri
+> # Arabell
 > ![ImagePlaceholder.png](../ImagePlaceholder.png)
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
-> Ort | [Dorf Barovia](../Places/D%C3%B6rfer/Dorf%20Barovia.md) |
-> Guilde |  |
-> Geschlecht | männlich |
+> Ort | [Camp der Vistany](../Places/D%C3%B6rfer/Camp%20der%20Vistany.md) |
+> Guilde | [Vistany](./Guilds/Vistany.md) |
+> Geschlecht |  |
 > Spezies |  |
-> Job| Zimmermann|
-> Alter |  |
+> Job| |
+> Alter | Kind |
 > Gesundheit | Gesund |
 > ###### Rules Info
 > Type |  Stat |
@@ -33,4 +33,4 @@ condition: Gesund
 
 ## Infos
 
-- ist verrückt geworden
+- Tochter von [Luwasch](Luwasch.md)

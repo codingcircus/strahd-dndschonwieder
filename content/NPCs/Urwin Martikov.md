@@ -1,6 +1,6 @@
 ---
 guild: "[[Hüter der Feder]]"
-gender: Männlich
+gender: männlich
 species: Werrabe
 age: Mittelalt
 class: keine
@@ -21,7 +21,7 @@ building: "[[Gasthaus Blauwasser]]"
 > ---|---|
 > Ort | [Vallaki](../Places/D%C3%B6rfer/Vallaki.md) |
 > Guilde | [Hüter der Feder](./Guilds/H%C3%BCter%20der%20Feder.md) |
-> Geschlecht | Männlich |
+> Geschlecht | männlich |
 > Spezies | Werrabe |
 > Job| Gasthausbesitzer|
 > Alter | Mittelalt |

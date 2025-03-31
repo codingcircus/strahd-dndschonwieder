@@ -1,6 +1,6 @@
 ---
 guild: keine
-gender: Männlich
+gender: männlich
 species: Mensch
 age: Alt
 class: keine
@@ -23,7 +23,7 @@ aliases:
 > ---|---|
 > Ort | [Vallaki](../Places/D%C3%B6rfer/Vallaki.md) |
 > Guilde | keine |
-> Geschlecht | Männlich |
+> Geschlecht | männlich |
 > Spezies | Mensch |
 > Job| Sargbauer|
 > Alter | Alt |

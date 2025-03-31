@@ -1,6 +1,6 @@
 ---
 guild: keine
-gender: Männlich
+gender: männlich
 species: Vampir
 age: Alt
 location: 
@@ -24,7 +24,7 @@ building: "[[Schloss Ravenloft]]"
 > ---|---|
 > Ort |  |
 > Guilde | keine |
-> Geschlecht | Männlich |
+> Geschlecht | männlich |
 > Spezies | Vampir |
 > Job| Graf|
 > Alter | Alt |

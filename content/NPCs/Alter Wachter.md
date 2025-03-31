@@ -1,28 +1,29 @@
 ---
-guild: 
+guild: "[[Wachters]]"
 gender: männlich
 species: 
-location: "[[Dorf Barovia]]"
+location: "[[Vallaki]]"
 age: 
 class: 
 alignment: 
-job: Zimmermann
-aliases: 
-share: true
+job: 
+aliases:
+  - Alter Mann
 condition: Gesund
+share: true
 ---
 
 > [!infobox]
-> # Dimitri
+> # Alter Wachter
 > ![ImagePlaceholder.png](../ImagePlaceholder.png)
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
-> Ort | [Dorf Barovia](../Places/D%C3%B6rfer/Dorf%20Barovia.md) |
-> Guilde |  |
+> Ort | [Vallaki](../Places/D%C3%B6rfer/Vallaki.md) |
+> Guilde | [[Wachters|Wachters]] |
 > Geschlecht | männlich |
 > Spezies |  |
-> Job| Zimmermann|
+> Job| |
 > Alter |  |
 > Gesundheit | Gesund |
 > ###### Rules Info
@@ -33,4 +34,5 @@ condition: Gesund
 
 ## Infos
 
-- ist verrückt geworden
+- Ist unter einem nekrotischem Zauberbann
+- Schläft mit Münzen auf den Augen

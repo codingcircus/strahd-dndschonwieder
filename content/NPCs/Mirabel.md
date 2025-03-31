@@ -1,6 +1,6 @@
 ---
 guild: keine
-gender: Weiblich
+gender: weiblich
 species: Gnom
 age: 25 Jahre
 class: keine
@@ -20,7 +20,7 @@ location: "[[Vallaki]]"
 > ---|---|
 > Ort | [Vallaki](../Places/D%C3%B6rfer/Vallaki.md) |
 > Guilde | keine |
-> Geschlecht | Weiblich |
+> Geschlecht | weiblich |
 > Spezies | Gnom |
 > Job| Schmied|
 > Alter | 25 Jahre |

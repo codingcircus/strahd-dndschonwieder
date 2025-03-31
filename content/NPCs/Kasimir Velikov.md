@@ -1,6 +1,6 @@
 ---
 guild: keine
-gender: Männlich
+gender: männlich
 species: Elf
 age: Alt
 location: "[[Camp der Vistany]]"
@@ -22,7 +22,7 @@ aliases:
 > ---|---|
 > Ort | [Camp der Vistany](../Places/D%C3%B6rfer/Camp%20der%20Vistany.md) |
 > Guilde | keine |
-> Geschlecht | Männlich |
+> Geschlecht | männlich |
 > Spezies | Elf |
 > Job| Magier|
 > Alter | Alt |

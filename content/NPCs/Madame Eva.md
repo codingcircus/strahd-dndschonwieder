@@ -1,36 +1,37 @@
 ---
-guild: 
+guild: "[[Vistany]]"
 gender: weiblich
 species: 
-location: 
-age: 
+location: "[[Tzer Fälle]]"
+age: Alt
 class: 
-alignment: 
+alignment:
+  - Neutral
 job: 
 aliases: 
-condition: Tod
+condition: Gesund
 share: true
 ---
 
 > [!infobox]
-> # Tatjana
+> # Madame Eva
 > ![ImagePlaceholder.png](../ImagePlaceholder.png)
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
-> Ort |  |
-> Guilde |  |
+> Ort | [Tzer Fälle](../Places/D%C3%B6rfer/Tzer%20F%C3%A4lle.md) |
+> Guilde | [Vistany](./Guilds/Vistany.md) |
 > Geschlecht | weiblich |
 > Spezies |  |
 > Job| |
-> Alter |  |
-> Gesundheit | Tod |
+> Alter | Alt |
+> Gesundheit | Gesund |
 > ###### Rules Info
 > Type |  Stat |
 > ---|---|
-> Ausrichtung||
+> Ausrichtung|Neutral|
 > Klasse||
 
 ## Infos
 
-- Erste Frau in die [Strahd](Strahd.md) verliebt war.
+- Altert nicht
