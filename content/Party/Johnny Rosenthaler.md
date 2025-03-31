@@ -9,3 +9,6 @@ aliases:
 | Spieler | Lukas |
 | Spezies | Halbling |
 | Klasse | Barde |
+- Wurde von [Diana Wachter](Diana%20Wachter.md) verflucht
+- Hätte gerne was mit allen hübschen Frauen, kann sie aber nicht mehr angreifen
+- Singt klassischen Wirtshausschlager
