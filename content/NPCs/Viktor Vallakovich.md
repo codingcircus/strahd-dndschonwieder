@@ -35,4 +35,4 @@ location: "[[Vallaki]]"
 
 - Sohn von [Baron Vargas Vallakovich](./Baron%20Vargas%20Vallakovich.md)
 - War mit [Natasia Wachter](Natasia%20Wachter.md) liiert, die ist ihm aber eigentlich auf die Nerven gegangen. Stattdessen hat er sie gequält und verstört. Wahrscheinlich ein fehlgeschlagener Zauber. 
-- Hat Buttler und Hausmädchen im Teleportationskreis getötet
+- Hat Butler und Hausmädchen im Teleportationskreis getötet
