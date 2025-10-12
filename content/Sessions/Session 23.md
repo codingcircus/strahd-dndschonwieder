@@ -4,7 +4,7 @@ share: true
 ---
 ## Am Friedhof
 
-Wir sehen, dass schon einige Gräber ausgehoben wurden, wo wohl Leichen ausgegraben wurden. Wir sehen das leere Grab von [Doru](../Doru.md).
+Wir sehen, dass schon einige Gräber ausgehoben wurden, wo wohl Leichen ausgegraben wurden. Wir sehen das leere Grab von [Doru](../NPCs/Doru.md).
 
 Der Vater von [Irina](../NPCs/Irina%20Kolyana.md) wird in der Familiengruft beigesetzt. Auf dem Stein steht, dass schon seit Vater unnütz war. Ich wirke einen Alarm Zauber und schicke den Pinguin aus um uns vor Gefahren zu warnen.
 
@@ -19,3 +19,9 @@ Der Reiter sagt zu mir (als [Irina](../NPCs/Irina%20Kolyana.md)) verkleidet, das
 [Leander](../NPCs/Leander.md) kommt uns zu Hilfe. Langsam hacken sich [Louie](../Party/Louie%20Langhammer.md) und [Allentato](../Party/Allentato.md) durch die Zombies. Der Reiter outet [Allentato](../Party/Allentato.md) als Slabit. 
 
 Wir schaffen es im Kampf, dass [Irina](../NPCs/Irina%20Kolyana.md) mit Hilfe von [Grisha](Grisha.md) den Grabstein alleine ins Grab schieben können. Wir hauen alle auf [Creepy Reiter](../NPCs/Rahadin.md) ein, er flüchtet und droht uns aber noch damit, dass wir alle nur Schachfiguren von [Strahd](../NPCs/Strahd%20von%20Zarovich.md) sind.
+
+[Ismark](../NPCs/Ismark%20Kol%C2%ADyanovich.md) gibt uns einen Beutel mit 50 Goldmünzen. Er versichert uns auch, dass wir später Häuser bekommen.
+
+[Irina](../NPCs/Irina%20Kolyana.md) fällt [Johnny](../Party/Johnny%20Rosenthaler.md) um den Hals, dabei bricht sein fluch wieder stärker aus (sie hält ihn für einen Zombie). [Leander](../NPCs/Leander.md), der [Irinas](../NPCs/Irina%20Kolyana.md) Zuneigung zu Johnny nicht gut findet, sagt uns, dass wir bei den Werwölfen vielleicht Antworten finden. [Irina](../NPCs/Irina%20Kolyana.md) und [Ismark](../NPCs/Ismark%20Kol%C2%ADyanovich.md) überlegen, ob sie uns begleiten wollen.
+
+Wir bereiten uns darauf vor die [Knochenmühle](Knochenm%C3%BChle.md) anzugreifen.
