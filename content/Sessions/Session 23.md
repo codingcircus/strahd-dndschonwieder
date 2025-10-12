@@ -16,12 +16,12 @@ Der Reiter sagt zu mir (als [Irina](../NPCs/Irina%20Kolyana.md)) verkleidet, das
 
 [Ismark Kol­yanovich](../NPCs/Ismark%20Kol%C2%ADyanovich.md) outed den Elf als [Creepy Reiter](../NPCs/Rahadin.md). Er kommt mit einer Armee an Wölfen, Fledermäußen, Zombies und Skelette. [Donavic](../NPCs/Pfarrer%20Donavic.md) unterstützt uns im Kampf mit der Macht des [Morgenfürst](Morgenf%C3%BCrst.md).
 
-[Leander](../NPCs/Leander.md) kommt uns zu Hilfe. Langsam hacken sich [Louie](../Party/Louie%20Langhammer.md) und [Allentato](../Party/Allentato.md) durch die Zombies. Der Reiter outet [Allentato](../Party/Allentato.md) als Slabit. 
+[Leander](../NPCs/Leander.md) kommt uns zu Hilfe. Langsam hacken sich [Louie](../Party/Louie%20Langhammer.md) und [Allentato](../Party/Allentato.md) durch die Zombies. Der Reiter nennt [Allentato](../Party/Allentato.md) Slâbit und erzählt, dass sie auch schonmal Bekanntschaft gemacht haben, im früheren Leben von Allentato.
 
 Wir schaffen es im Kampf, dass [Irina](../NPCs/Irina%20Kolyana.md) mit Hilfe von [Grisha](Grisha.md) den Grabstein alleine ins Grab schieben können. Wir hauen alle auf [Creepy Reiter](../NPCs/Rahadin.md) ein, er flüchtet und droht uns aber noch damit, dass wir alle nur Schachfiguren von [Strahd](../NPCs/Strahd%20von%20Zarovich.md) sind.
 
-[Ismark](../NPCs/Ismark%20Kol%C2%ADyanovich.md) gibt uns einen Beutel mit 50 Goldmünzen. Er versichert uns auch, dass wir später Häuser bekommen.
+[Ismark](../NPCs/Ismark%20Kol%C2%ADyanovich.md) gibt uns einen Beutel mit 50 Goldmünzen. Er versichert uns auch, dass wir später Realitäten bekommen.
 
-[Irina](../NPCs/Irina%20Kolyana.md) fällt [Johnny](../Party/Johnny%20Rosenthaler.md) um den Hals, dabei bricht sein fluch wieder stärker aus (sie hält ihn für einen Zombie). [Leander](../NPCs/Leander.md), der [Irinas](../NPCs/Irina%20Kolyana.md) Zuneigung zu Johnny nicht gut findet, sagt uns, dass wir bei den Werwölfen vielleicht Antworten finden. [Irina](../NPCs/Irina%20Kolyana.md) und [Ismark](../NPCs/Ismark%20Kol%C2%ADyanovich.md) überlegen, ob sie uns begleiten wollen.
+[Irina](../NPCs/Irina%20Kolyana.md) fällt [Johnny](../Party/Johnny%20Rosenthaler.md) um den Hals, dabei bricht sein Fluch wieder stärker aus (sie hält ihn für einen Zombie). [Leander](../NPCs/Leander.md), der [Irinas](../NPCs/Irina%20Kolyana.md) Zuneigung zu Johnny nicht gut findet, sagt uns, dass wir bei den Werwölfen vielleicht Antworten finden. [Irina](../NPCs/Irina%20Kolyana.md) und [Ismark](../NPCs/Ismark%20Kol%C2%ADyanovich.md) überlegen, ob sie uns begleiten wollen.
 
 Wir bereiten uns darauf vor die [Knochenmühle](Knochenm%C3%BChle.md) anzugreifen.
