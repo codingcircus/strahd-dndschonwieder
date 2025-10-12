@@ -1,13 +1,14 @@
 ---
 share: true
+aliases:
+  - Slâbit
 ---
 
-
-| Type | Stat |
-| --- | --- |
-| Spieler | Clausi |
+| Type    | Stat    |
+| ------- | ------- |
+| Spieler | Clausi  |
 | Spezies | Skelett |
-| Klasse | Rogue |
+| Klasse  | Rogue   |
 
 - Sein Rivale ist [Ernst](Ernst.md)
 - Der [Beutelmann](Beutelmann.md) steht auf seiner Liste
