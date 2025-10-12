@@ -3,7 +3,7 @@ guild: keine
 gender: männlich
 species: Mensch
 location: "[[Dorf Barovia]]"
-age: Anfang 30
+age: "31"
 class: keine
 alignment:
   - Neutral
@@ -25,7 +25,7 @@ aliases:
 > Geschlecht | männlich |
 > Spezies | Mensch |
 > Job| Bürgermeister|
-> Alter | Anfang 30 |
+> Alter | 31 |
 > Gesundheit | Gesund |
 > ###### Rules Info
 > Type |  Stat |
@@ -39,5 +39,5 @@ aliases:
 - Seine Schwester [Irina Kolyana](./Irina%20Kolyana.md) wird von Vampir heimgesucht
 - war früher beeindruckt von Abenteurern, doch jede Gruppe ist gescheitert
 - er wirkt wie ein großes Kind
-- Seine Freunde sind [Grisha](Grisha.md) und [Mirko](Mirko.md)
+- Seine Freunde sind [Grisha](Grisha.md) und [Mirko](Mirko.md) (die Armee)
 - 
