@@ -6,10 +6,10 @@ share: true
 ## Mitglieder
 | Name                                         | Job         | Spezies | Zustand |
 | -------------------------------------------- | ----------- | ------- | ------- |
-| [Fiona Wachter](../Fiona%20Wachter.md)     | Wohlhabende | Mensch  | Gesund  |
-| [Nikolaj Wachter](../Nikolaj%20Wachter.md) | Trunkenbold | Mensch  | Gesund  |
-| [Karl Wachter](../Karl%20Wachter.md)       | Reich       | Mensch  | Gesund  |
 | [Alter Wachter](../Alter%20Wachter.md)     | \-          | \-      | Gesund  |
+| [Fiona Wachter](../Fiona%20Wachter.md)     | Wohlhabende | Mensch  | Gesund  |
+| [Karl Wachter](../Karl%20Wachter.md)       | Reich       | Mensch  | Gesund  |
+| [Nikolaj Wachter](../Nikolaj%20Wachter.md) | Trunkenbold | Mensch  | Gesund  |
 
 
 ## Infos
