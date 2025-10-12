@@ -2,7 +2,7 @@
 guild: keine
 gender: weiblich
 species: Mensch
-age: "20"
+age: "24"
 class: keine
 alignment:
   - Neutral
@@ -25,7 +25,7 @@ aliases:
 > Geschlecht | weiblich |
 > Spezies | Mensch |
 > Job| keine|
-> Alter | 20 |
+> Alter | 24 |
 > Gesundheit | Gesund |
 > ###### Rules Info
 > Type |  Stat |
@@ -44,3 +44,4 @@ aliases:
 - sieht aus wie eine von [Blinskys](./Gadof%20Blinsky.md) Puppen. Das könnte natürlich auch eine Abbildung von [Tatjana](./Tatjana.md) sein. 
 - Sie sagt uns dass wir der [Knochenmühle](Knochenm%C3%BChle.md) nachgehen sollten
 - wurde von [Strahd](./Strahd%20von%20Zarovich.md) getrickst und gebissen. Er hat ihr gesagt, dass er verletzt war
+- Hat rote Haare
