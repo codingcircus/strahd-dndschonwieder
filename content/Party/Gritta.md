@@ -1,5 +1,7 @@
 ---
 share: true
+aliases:
+  - die Mediatorin
 ---
 
 
