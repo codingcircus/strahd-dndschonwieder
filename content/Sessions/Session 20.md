@@ -32,7 +32,7 @@ Wir reisen weiter. Im Wald sehen wir eine aufgeknüpfte Person, sie erinnert [Al
 
 ## [Dorf Barovia](../Places/D%C3%B6rfer/Dorf%20Barovia.md)
 
-Im Dorf besuchen wir die Kirche. [Pfarrer Donavic](Pfarrer%20Donavic.md) hat eine Nachricht hinterlassen, dass die Kirche geschlossen ist. In der Kirche hören wir Schreie nach Fleisch. 
+Im Dorf besuchen wir die Kirche. [Pfarrer Donavic](../NPCs/Pfarrer%20Donavic.md) hat eine Nachricht hinterlassen, dass die Kirche geschlossen ist. In der Kirche hören wir Schreie nach Fleisch. 
 
 Dann gehen wir noch zu [Bildraths Kaufladen](Bildraths%20Kaufladen.md). Wir lernen auch seinen Sohn [Pariwimpel](../NPCs/Pariwimpel.md) kennen. Wir kaufen eine Pfanne, Seife und eine seltsame beobachtende Puppe. Wir erfahren auch, dass alle Erwachsene im Dorf Teil einer [Lotterie](Lotterie.md) sind. Die "Gewinner" werden [Strahd](../NPCs/Strahd%20von%20Zarovich.md) geopfert.
 
