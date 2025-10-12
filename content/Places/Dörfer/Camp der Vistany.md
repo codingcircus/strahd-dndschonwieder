@@ -15,10 +15,10 @@ Size: ~ 50 Leute
 ## Benannte Bewohner
 | Name                                         | Job      | Spezies | Zustand |
 | -------------------------------------------- | -------- | ------- | ------- |
-| [Aregal](../../NPCs/Aregal.md)                   | Anführer | Mensch  | Gesund  |
-| [Kasimir Velikov](../../NPCs/Kasimir%20Velikov.md) | Magier   | Elf     | Gesund  |
-| [Arabell](../../NPCs/Arabell.md)                 | \-       | \-      | Gesund  |
 | [Alexei](../../NPCs/Alexei.md)                   | \-       | \-      | Gesund  |
+| [Aregal](../../NPCs/Aregal.md)                   | Anführer | Mensch  | Gesund  |
+| [Arabell](../../NPCs/Arabell.md)                 | \-       | \-      | Gesund  |
+| [Kasimir Velikov](../../NPCs/Kasimir%20Velikov.md) | Magier   | Elf     | Gesund  |
 
 
 ## Infos

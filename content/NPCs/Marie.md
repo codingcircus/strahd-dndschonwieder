@@ -35,5 +35,5 @@ condition: Gesund
 ## Infos
 
 
-- hat ihre Tochter [Gertruda](Gertruda.md) verloren. Vielleicht ist sie Strahd nachgelaufen
+- hat ihre Tochter [Gertruda](./Gertruda.md) verloren. Vielleicht ist sie Strahd nachgelaufen
 - wurde erwähnt, als wir über den [Teleportationskreis](Teleportationskreis.md) von [Dorf Barovia](../Places/D%C3%B6rfer/Dorf%20Barovia.md) geredet haben
