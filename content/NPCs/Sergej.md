@@ -1,13 +1,13 @@
 ---
-guild: 
-gender: 
-species: 
-location: 
-age: 
-class: 
-alignment: 
-job: 
-aliases: 
+guild:
+gender:
+species:
+location:
+age:
+class:
+alignment:
+job:
+aliases:
 share: true
 condition: Tod
 ---
