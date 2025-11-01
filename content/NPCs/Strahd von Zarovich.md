@@ -3,7 +3,7 @@ guild: keine
 gender: männlich
 species: Vampir
 age: Alt
-location: 
+location:
 class: Vampir
 alignment:
   - Böse
