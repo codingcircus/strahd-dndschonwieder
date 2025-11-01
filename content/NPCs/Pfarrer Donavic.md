@@ -1,10 +1,10 @@
 ---
-guild: 
+guild:
 gender: männlich
-species: 
+species:
 location: "[[Dorf Barovia]]"
-age: 
-class: 
+age:
+class:
 alignment:
   - Good
 job: Priester
@@ -35,5 +35,5 @@ share: true
 
 ## Infos
 
-- Vater von Vampirbrut [Doru](../Doru.md)
+- Vater von Vampirbrut [Doru](./Doru.md)
 - 

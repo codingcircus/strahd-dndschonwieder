@@ -4,7 +4,7 @@ gender: männlich
 species: Werrabe
 location: "[[Der Weinmagier]]"
 age: mittel
-class: 
+class:
 alignment:
   - Gut
 job: Winzer

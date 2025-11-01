@@ -1,13 +1,13 @@
 ---
-guild: 
+guild:
 gender: weiblich
 species: Elf
-location: 
-age: 
-class: 
-alignment: 
-job: 
-aliases: 
+location:
+age:
+class:
+alignment:
+job:
+aliases:
 share: true
 condition: Gesund
 ---

@@ -8,12 +8,12 @@ class:
 alignment:
 job:
 aliases:
+condition: Gesund
 share: true
-condition: Tod
 ---
 
 > [!infobox]
-> # Sergej
+> # Diana Wachter
 > ![ImagePlaceholder.png](../ImagePlaceholder.png)
 > ###### Basic Information
 > Type |  Stat |
@@ -24,7 +24,7 @@ condition: Tod
 > Spezies |  |
 > Job| |
 > Alter |  |
-> Gesundheit | Tod |
+> Gesundheit | Gesund |
 > ###### Rules Info
 > Type |  Stat |
 > ---|---|
@@ -32,5 +32,3 @@ condition: Tod
 > Klasse||
 
 ## Infos
-
-- Bruder von [Strahd](./Strahd%20von%20Zarovich.md)

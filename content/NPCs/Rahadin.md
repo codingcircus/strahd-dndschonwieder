@@ -1,13 +1,13 @@
 ---
-guild: 
+guild:
 gender: männlich
 species: Dämmerungself
 location: "[[Dorf Barovia]]"
-age: 
-class: 
+age:
+class:
 alignment:
   - Böse
-job: 
+job:
 aliases:
   - Creepy Reiter
 condition: Gesund
@@ -34,3 +34,6 @@ share: true
 > Klasse||
 
 ## Infos
+
+- hat die anderen Dämmerungselfen verraten
+- dafür wurde ihnen die Ohren abgeschnitten
