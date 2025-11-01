@@ -6,8 +6,8 @@ share: true
 | Name                                               | Job           | Spezies | Zustand |
 | -------------------------------------------------- | ------------- | ------- | ------- |
 | [Alexei](../Alexei.md)                         | \-            | \-      | Gesund  |
-| [Aregal](../Aregal.md)                         | Anführer      | Mensch  | Gesund  |
 | [Arabell](../Arabell.md)                       | \-            | \-      | Gesund  |
+| [Aregal](../Aregal.md)                         | Anführer      | Mensch  | Gesund  |
 | [Ezmerelda d'Avenir](../Ezmerelda%20d'Avenir.md) | Vampirjägerin | Mensch  | Gesund  |
 | [Madame Eva](../Madame%20Eva.md)                 | \-            | \-      | Gesund  |
 
