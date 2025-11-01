@@ -2,8 +2,8 @@
 share: true
 Leader: "[Fiona Wachter](../../NPCs/Fiona%20Wachter.md)"
 LeaderTitle: Anführer
-Inhabitants: 
-Size: 
+Inhabitants:
+Size:
 ---
 
 
@@ -20,18 +20,18 @@ Size:
 | [Alter Wachter](../../NPCs/Alter%20Wachter.md)                       | \-                             | \-      | Gesund       |
 | [Baron Vargas Vallakovich](../../NPCs/Baron%20Vargas%20Vallakovich.md) | Bürgermeister                  | Mensch  | Tod          |
 | [Bluto](../../NPCs/Bluto.md)                                       | \-                             | \-      | Tod          |
+| [Fiona Wachter](../../NPCs/Fiona%20Wachter.md)                       | Wohlhabende                    | Mensch  | Gesund       |
 | [Gadof Blinsky](../../NPCs/Gadof%20Blinsky.md)                       | \-                             | \-      | Gesund       |
 | [Gertruda](../../NPCs/Gertruda.md)                                 | \-                             | \-      | Verschwunden |
-| [Izek Strahsni](../../NPCs/Izek%20Strahsni.md)                       | Rechte Hand des Bürgermeisters | Mensch  | Gesund       |
-| [Fiona Wachter](../../NPCs/Fiona%20Wachter.md)                       | Wohlhabende                    | Mensch  | Gesund       |
-| [Karl Wachter](../../NPCs/Karl%20Wachter.md)                         | Reich                          | Mensch  | Gesund       |
 | [Henrik van der Voort](../../NPCs/Henrik%20van%20der%20Voort.md)         | Sargbauer                      | Mensch  | Gesund       |
+| [Izek Strahsni](../../NPCs/Izek%20Strahsni.md)                       | Rechte Hand des Bürgermeisters | Mensch  | Gesund       |
+| [Karl Wachter](../../NPCs/Karl%20Wachter.md)                         | Reich                          | Mensch  | Gesund       |
 | [Lucien Petrovich](../../NPCs/Lucien%20Petrovich.md)                 | Pater                          | Mensch  | Tod          |
 | [Mirabel](../../NPCs/Mirabel.md)                                   | Schmied                        | Gnom    | Tod          |
+| [Nikolaj Wachter](../../NPCs/Nikolaj%20Wachter.md)                   | Trunkenbold                    | Mensch  | Gesund       |
 | [Stefania Martikov](../../NPCs/Stefania%20Martikov.md)               | \-                             | \-      | Gesund       |
 | [Urwin Martikov](../../NPCs/Urwin%20Martikov.md)                     | Gasthausbesitzer               | Werrabe | Gesund       |
 | [Viktor Vallakovich](../../NPCs/Viktor%20Vallakovich.md)             | Möchtegern Magier              | Mensch  | Gesund       |
-| [Nikolaj Wachter](../../NPCs/Nikolaj%20Wachter.md)                   | Trunkenbold                    | Mensch  | Gesund       |
 
 
 ## Gebäude
