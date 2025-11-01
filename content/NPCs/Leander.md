@@ -1,13 +1,13 @@
 ---
-guild: 
+guild:
 gender: männlich
 species: Drow
 location: "[Dorf Barovia](../Places/D%C3%B6rfer/Dorf%20Barovia.md)"
-age: 
-class: 
+age:
+class:
 alignment: Good
 job: Söldner
-aliases: 
+aliases:
 share: true
 condition: Gesund
 ---
