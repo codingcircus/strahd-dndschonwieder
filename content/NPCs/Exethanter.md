@@ -1,14 +1,14 @@
 ---
-guild: 
-gender: 
-species: 
+guild:
+gender:
+species:
 location: "[[Tsulenka Pass]]"
-age: 
+age:
 class: Lich
 alignment:
   - Böse
 job: Lich
-aliases: 
+aliases:
 condition: Untod
 share: true
 building: "[[Bernsteintempel]]"
