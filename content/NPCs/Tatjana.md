@@ -1,13 +1,13 @@
 ---
-guild: 
+guild:
 gender: weiblich
-species: 
-location: 
-age: 
-class: 
-alignment: 
-job: 
-aliases: 
+species:
+location:
+age:
+class:
+alignment:
+job:
+aliases:
 condition: Tod
 share: true
 ---
