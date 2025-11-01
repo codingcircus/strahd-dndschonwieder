@@ -21,11 +21,12 @@ Size: ca. 300
 | [Gawinski](../../NPCs/Gawinski.md)                       | \-            | \-            | Gesund  |
 | [Irina Kolyana](../../NPCs/Irina%20Kolyana.md)             | keine         | Mensch        | Gesund  |
 | [Ismark Kol­yanovich](../../NPCs/Ismark%20Kol%C2%ADyanovich.md) | Bürgermeister | Mensch        | Gesund  |
-| [Kolyan Indirovich](../../NPCs/Kolyan%20Indirovich.md)     | Bürgermeister | Mensch        | Tod     |
 | [Leander](../../NPCs/Leander.md)                         | Söldner       | Drow          | Gesund  |
+| [Kolyan Indirovich](../../NPCs/Kolyan%20Indirovich.md)     | Bürgermeister | Mensch        | Tod     |
 | [Marie](../../NPCs/Marie.md)                             | \-            | Mensch        | Gesund  |
 | [Pariwimpel](../../NPCs/Pariwimpel.md)                   | Händler       | Mensch        | Gesund  |
 | [Pfarrer Donavic](../../NPCs/Pfarrer%20Donavic.md)         | Priester      | \-            | Gesund  |
+| [Doru](../../NPCs/Doru.md)                               | \-            | Vampirbrut    | Gesund  |
 | [Rahadin](../../NPCs/Rahadin.md)                         | \-            | Dämmerungself | Gesund  |
 
 
@@ -33,8 +34,8 @@ Size: ca. 300
 | Name                                                                   | Geführt                                 |
 | ---------------------------------------------------------------------- | --------------------------------------- |
 | [Kirche von Dorf Barovia](../Geb%C3%A4ude/Kirche%20von%20Dorf%20Barovia.md) | [Donavic](../../NPCs/Pfarrer%20Donavic.md)    |
-| [zur blutigen Weintraube](../Geb%C3%A4ude/zur%20blutigen%20Weintraube.md) | \-                                      |
 | [Schloss Ravenloft](../Geb%C3%A4ude/Schloss%20Ravenloft.md)             | [Strahd](../../NPCs/Strahd%20von%20Zarovich.md) |
+| [zur blutigen Weintraube](../Geb%C3%A4ude/zur%20blutigen%20Weintraube.md) | \-                                      |
 
 
 ## Infos
