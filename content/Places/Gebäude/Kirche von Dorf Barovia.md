@@ -13,8 +13,9 @@ share: true
 >Ort | [Dorf Barovia](../D%C3%B6rfer/Dorf%20Barovia.md) |
 
 ## Anwesend
-| Name | Job | Spezies | Zustand |
-| ---- | --- | ------- | ------- |
+| Name                   | Job | Spezies    | Zustand |
+| ---------------------- | --- | ---------- | ------- |
+| [Doru](../../NPCs/Doru.md) | \-  | Vampirbrut | Gesund  |
 
 
 ## Infos
