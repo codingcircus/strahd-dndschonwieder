@@ -1,12 +1,12 @@
 ---
-guild: 
+guild:
 gender: weiblich
 species: Mensch
 location: "[Dorf Barovia](../Places/D%C3%B6rfer/Dorf%20Barovia.md)"
-age: 
-class: 
-alignment: 
-job: 
+age:
+class:
+alignment:
+job:
 aliases:
   - verückte Marie
 share: true
