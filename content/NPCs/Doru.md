@@ -1,14 +1,14 @@
 ---
-guild: 
+guild:
 gender: männlich
 species: Vampirbrut
 location: "[[Dorf Barovia]]"
-age: 
-class: 
+age:
+class:
 alignment:
   - Böse
-job: 
-aliases: 
+job:
+aliases:
 condition: Gesund
 share: true
 building: "[[Kirche von Dorf Barovia]]"
