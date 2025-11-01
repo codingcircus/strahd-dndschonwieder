@@ -1,13 +1,13 @@
 ---
-guild: 
+guild:
 gender: weiblich
-species: 
+species:
 location: "[[Vallaki]]"
 age: "20"
-class: 
-alignment: 
-job: 
-aliases: 
+class:
+alignment:
+job:
+aliases:
 condition: Verschwunden
 share: true
 ---
